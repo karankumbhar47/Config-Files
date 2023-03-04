@@ -1,0 +1,24 @@
+2023-02-24 01:13:59.427 [info] update#setState idle
+2023-02-24 01:14:09.412 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-02-24 01:14:09.461 [info] [UtilityProcess id: 1, type: extensionHost, pid: 34932]: successfully created
+2023-02-24 01:14:09.514 [info] [UtilityProcess id: 2, type: extensionHost, pid: <none>]: creating new...
+2023-02-24 01:14:09.521 [info] [UtilityProcess id: 2, type: extensionHost, pid: 34942]: successfully created
+2023-02-24 01:14:29.429 [info] update#setState checking for updates
+2023-02-24 01:14:29.572 [info] update#setState idle
+2023-02-24 01:14:30.123 [info] [UtilityProcess id: 1, type: extensionHost, pid: 34932]: enabling inspect port
+2023-02-24 01:14:30.323 [info] [UtilityProcess id: 2, type: extensionHost, pid: 34942]: enabling inspect port
+2023-02-24 01:14:37.923 [info] [UtilityProcess id: 1, type: extensionHost, pid: 34932]: received exit event with code 22272
+2023-02-24 01:14:37.924 [info] Extension host with pid 34932 exited with code: 22272, signal: unknown.
+2023-02-24 01:14:37.925 [error] [UtilityProcess id: 1, type: extensionHost, pid: 34932]: crashed with code 22272 and reason 'abnormal-exit'
+2023-02-24 01:14:47.521 [info] [UtilityProcess id: 2, type: extensionHost, pid: 34942]: received exit event with code 0
+2023-02-24 01:14:47.522 [info] Extension host with pid 34942 exited with code: 0, signal: unknown.
+2023-02-24 01:14:51.841 [info] [UtilityProcess id: 3, type: extensionHost, pid: <none>]: creating new...
+2023-02-24 01:14:51.850 [info] [UtilityProcess id: 3, type: extensionHost, pid: 35120]: successfully created
+2023-02-24 01:14:58.681 [info] [UtilityProcess id: 3, type: extensionHost, pid: 35120]: enabling inspect port
+2023-02-24 01:26:09.917 [info] [UtilityProcess id: 3, type: extensionHost, pid: 35120]: waiting to exit...
+2023-02-24 01:26:11.406 [info] [UtilityProcess id: 3, type: extensionHost, pid: 35120]: received exit event with code 0
+2023-02-24 01:26:11.406 [info] Extension host with pid 35120 exited with code: 0, signal: unknown.
+2023-02-24 01:26:12.693 [warning] [storage main] detected slow close() operation: Time: 2774ms, DB size: 20480b, Large Keys: __$__targetStorageMarker:946, workbench.view.debug.state:583, memento/workbench.parts.editor:309, workbench.panel.placeholderPanels:240, workbench.explorer.views.state:232
+2023-02-24 01:26:13.505 [warning] [storage main] detected slow close() operation: Time: 3587ms, DB size: 57344b, Large Keys: terminal.integrated.bufferState:13011, memento/workbench.editors.files.textFileEditor:4367, memento/workbench.parts.editor:2127, __$__targetStorageMarker:1356, history.entries:1248
+2023-02-24 01:26:13.963 [warning] [storage main] detected slow close() operation: Time: 4045ms, DB size: 24576b, Large Keys: __$__targetStorageMarker:1185, memento/workbench.editors.files.textFileEditor:908, memento/workbench.parts.editor:902, workbench.view.debug.state:583, terminal.integrated.environmentVariableCollections:537
+2023-02-24 01:26:13.992 [warning] [storage main] detected slow close() operation: Time: 4074ms, DB size: 839680b, Large Keys: iconThemeData:730964, workbench.statusbar.hidden:7051, colorThemeData:6382, terminal.history.entries.commands:4967, __$__targetStorageMarker:4633

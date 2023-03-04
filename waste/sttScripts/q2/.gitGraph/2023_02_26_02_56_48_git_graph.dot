@@ -1,0 +1,45 @@
+digraph auto {
+	graph [bgcolor=transparent]
+	node [fixedsize=true style=filled width=0.95]
+	"3570771e9e32859ab454601e2dbb04b8fd9db502" [label=3570771 fillcolor="#85d5fa"]
+	"53dc82aec062ce5b97faf2aaa19537e13f704dd4" [label="53dc82a" fillcolor="#85d5fa"]
+	"53dc82aec062ce5b97faf2aaa19537e13f704dd4" -> "99d4ab1a1ef57fe7d8d5a009ef43012db21b80ea"
+	"7b90b99da18d6972bf292677c753c8bc5ae14204" [label="7b90b99" fillcolor="#85d5fa"]
+	"7b90b99da18d6972bf292677c753c8bc5ae14204" -> "3570771e9e32859ab454601e2dbb04b8fd9db502"
+	"8abdda5c0301164dd241c1b742ff2da4ddf37268" [label="8abdda5" fillcolor="#85d5fa"]
+	"8abdda5c0301164dd241c1b742ff2da4ddf37268" -> e5f922123c9bede9b76feeaffe93b8c7fc2708cb
+	"9589aabbf1924d11c2e2a13eb9b5239de61df8e8" [label="9589aab" fillcolor="#85d5fa"]
+	"9589aabbf1924d11c2e2a13eb9b5239de61df8e8" -> ba4cd348dd10581973a1225013074387074f7c15
+	"99d4ab1a1ef57fe7d8d5a009ef43012db21b80ea" [label="99d4ab1" fillcolor="#85d5fa"]
+	"99d4ab1a1ef57fe7d8d5a009ef43012db21b80ea" -> a84c0963809f1f2d85d8e8cd9821ce445135fd6d
+	a84c0963809f1f2d85d8e8cd9821ce445135fd6d [label=a84c096 fillcolor="#85d5fa"]
+	a84c0963809f1f2d85d8e8cd9821ce445135fd6d -> f33a128f8605723a397841979725809992d70e05
+	ba4cd348dd10581973a1225013074387074f7c15 [label=ba4cd34 fillcolor="#85d5fa"]
+	ba4cd348dd10581973a1225013074387074f7c15 -> "8abdda5c0301164dd241c1b742ff2da4ddf37268"
+	e5f922123c9bede9b76feeaffe93b8c7fc2708cb [label=e5f9221 fillcolor="#85d5fa"]
+	e5f922123c9bede9b76feeaffe93b8c7fc2708cb -> "53dc82aec062ce5b97faf2aaa19537e13f704dd4"
+	f33a128f8605723a397841979725809992d70e05 [label=f33a128 fillcolor="#85d5fa"]
+	f33a128f8605723a397841979725809992d70e05 -> "7b90b99da18d6972bf292677c753c8bc5ae14204"
+	3570771 [label=3570771 fillcolor="#9999ff"]
+	3570771 -> "3570771e9e32859ab454601e2dbb04b8fd9db502"
+	"53dc82a" [label="53dc82a" fillcolor="#9999ff"]
+	"53dc82a" -> "53dc82aec062ce5b97faf2aaa19537e13f704dd4"
+	"7b90b99" [label="7b90b99" fillcolor="#9999ff"]
+	"7b90b99" -> "7b90b99da18d6972bf292677c753c8bc5ae14204"
+	"8abdda5" [label="8abdda5" fillcolor="#9999ff"]
+	"8abdda5" -> "8abdda5c0301164dd241c1b742ff2da4ddf37268"
+	"99d4ab1" [label="99d4ab1" fillcolor="#9999ff"]
+	"99d4ab1" -> "99d4ab1a1ef57fe7d8d5a009ef43012db21b80ea"
+	a84c096 [label=a84c096 fillcolor="#9999ff"]
+	a84c096 -> a84c0963809f1f2d85d8e8cd9821ce445135fd6d
+	ba4cd34 [label=ba4cd34 fillcolor="#9999ff"]
+	ba4cd34 -> ba4cd348dd10581973a1225013074387074f7c15
+	e5f9221 [label=e5f9221 fillcolor="#9999ff"]
+	e5f9221 -> e5f922123c9bede9b76feeaffe93b8c7fc2708cb
+	f33a128 [label=f33a128 fillcolor="#9999ff"]
+	f33a128 -> f33a128f8605723a397841979725809992d70e05
+	master [label=master fillcolor="#9999ff"]
+	master -> "9589aabbf1924d11c2e2a13eb9b5239de61df8e8"
+	HEAD [label=HEAD fillcolor="#e6ccff"]
+	HEAD -> master
+}

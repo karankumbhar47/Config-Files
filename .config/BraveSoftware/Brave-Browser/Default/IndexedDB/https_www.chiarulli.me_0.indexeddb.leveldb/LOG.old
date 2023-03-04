@@ -1,0 +1,6 @@
+2023/01/26-11:51:10.990 b1b Creating DB /home/karan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.chiarulli.me_0.indexeddb.leveldb since it was missing.
+2023/01/26-11:51:11.197 b1b Reusing MANIFEST /home/karan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.chiarulli.me_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/26-11:51:43.660 b1b Level-0 table #5: started
+2023/01/26-11:51:43.709 b1b Level-0 table #5: 1812 bytes OK
+2023/01/26-11:51:43.783 b1b Delete type=0 #3
+2023/01/26-11:51:43.783 b1b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

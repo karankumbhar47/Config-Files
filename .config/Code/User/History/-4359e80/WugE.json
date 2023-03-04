@@ -1,0 +1,46 @@
+{
+    "editor.fontSize": 20,
+    "editor.mouseWheelZoom": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.ignoreSelection": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.saveFileBeforeRun": true,
+    "amiga-assembly.binDir": "/home/karan/.config/Code/User/globalStorage/prb28.amiga-assembly/downloads/vscode-amiga-assembly-binaries-@-1.6.0/prb28-vscode-amiga-assembly-binaries-889b61c",
+    "editor.largeFileOptimizations": false,
+    "editor.linkedEditing": true,
+    "explorer.confirmDelete": false,
+    "html.format.indentInnerHtml": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on",
+    "diffEditor.wordWrap": "on",
+    "liveServer.settings.CustomBrowser": "firefox",
+    "liveServer.settings.fullReload": true,
+    "liveServer.settings.NoBrowser": true,
+    "svelte.plugin.svelte.note-new-transformation": false,
+    "npm.keybindingsChangedWarningShown": true,
+    "workbench.editorAssociations": {
+        "*.xlsx": "default"
+    },
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "syntaxes": [
+        {
+            "syntax": "i3wm-syntax/syntaxes/i3",
+            "rules": [
+                { "file_path": ".*/.i3/config$" },
+                { "file_path": ".*/i3/config$" }
+            ]
+        }
+    ],
+    "editor.accessibilitySupport": "off",
+    "vscode-edge-devtools.webhint": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Visual Studio Dark"
+}

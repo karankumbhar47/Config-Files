@@ -1,0 +1,32 @@
+#!/bin/bash
+
+
+#####################################################################################################
+#                                                                                                   #
+#                    Script to make 50 commits and  pick one ramdom commit                          #
+#                                                                                                   #
+#####################################################################################################
+
+
+#initializing git
+git init
+
+#########################################################################
+#       crateing new file and making 50 commits                         #
+#########################################################################
+
+for commit_count in {1..50};
+
+do
+
+  fileName=$commit_count.txt
+  echo "This is file number :- $commit_count" > $fileName 
+  git add $fileName
+  git commit -m"This is commit number $commit_count"
+
+done
+
+
+#command which will give any random commit present in list
+git log | awk '/commit/ {print $0}' | awk '{if(NR%2==1) prev=$2 ; else print "\n"  $1,$2,$3,$4,$5 " ==> [" prev "]\n"}' | awk -v var=$(($((RANDOM%50))+1)) '$5 == var {print "=======================================================================\n\nprinting random commit .... \n\n" $0 "\n\n======================================================================="}'
+

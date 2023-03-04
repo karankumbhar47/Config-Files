@@ -1,0 +1,9 @@
+bd24752 (HEAD -> CTRL+SHIFT+N) HEAD@{0}: commit (cherry-pick): merge conflict resolved(cherry-pick)
+15a3106 (origin/CTRL+SHIFT+N) HEAD@{1}: reset: moving to 15a3106ebcd48cd196b8ea5b6de1bc1d78324e7f
+15a3106 (origin/CTRL+SHIFT+N) HEAD@{2}: reset: moving to 15a3106ebcd48cd196b8ea5b6de1bc1d78324e7f
+15a3106 (origin/CTRL+SHIFT+N) HEAD@{3}: checkout: moving from main to CTRL+SHIFT+N
+f4079ae (origin/main, origin/HEAD, main) HEAD@{4}: pull origin main: Fast-forward
+9e3a50a HEAD@{5}: checkout: moving from CTRL+SHIFT+N to main
+15a3106 (origin/CTRL+SHIFT+N) HEAD@{6}: commit: updated multiplication
+9e3a50a HEAD@{7}: checkout: moving from main to CTRL+SHIFT+N
+9e3a50a HEAD@{8}: clone: from github.com:suryasahiba/Calculator_23W.git

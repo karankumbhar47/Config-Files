@@ -1,0 +1,10 @@
+2023/01/25-11:50:21.436 e08 Creating DB /home/karan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb since it was missing.
+2023/01/25-11:50:21.789 e08 Reusing MANIFEST /home/karan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/25-11:50:22.331 f69 Level-0 table #5: started
+2023/01/25-11:50:22.451 f69 Level-0 table #5: 1228 bytes OK
+2023/01/25-11:50:22.581 f69 Delete type=0 #3
+2023/01/25-11:50:22.581 f69 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/01/25-11:50:28.639 f69 Level-0 table #7: started
+2023/01/25-11:50:28.737 f69 Level-0 table #7: 1732 bytes OK
+2023/01/25-11:50:28.860 f69 Delete type=0 #4
+2023/01/25-11:50:28.860 f69 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

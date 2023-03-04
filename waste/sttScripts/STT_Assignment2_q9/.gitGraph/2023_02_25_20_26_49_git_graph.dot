@@ -1,0 +1,36 @@
+digraph auto {
+	graph [bgcolor=transparent]
+	node [fixedsize=true style=filled width=0.95]
+	"021a20b7bf505af161fbe5f6eaebaf6cf9c4c394" [label="021a20b" fillcolor="#85d5fa"]
+	"021a20b7bf505af161fbe5f6eaebaf6cf9c4c394" -> a4dc9e6821c767fd690b7a6d1a7a770cbed491fd
+	"146f750d68928aabe147638d31ce0966695f2313" [label="146f750" fillcolor="#85d5fa"]
+	"146f750d68928aabe147638d31ce0966695f2313" -> "7238534fdcb72278f495c2af5d78de0083af51a4"
+	"3e50ca9deec3ab6270333c4714009fa2778e443a" [label="3e50ca9" fillcolor="#85d5fa"]
+	"3e50ca9deec3ab6270333c4714009fa2778e443a" -> cb5ddeac9a3ebf040d9987bf1a806e9089acfd07
+	"3eb3ccdf09759e63532a10105584e8b9d686213e" [label="3eb3ccd" fillcolor="#85d5fa"]
+	"7238534fdcb72278f495c2af5d78de0083af51a4" [label=7238534 fillcolor="#85d5fa"]
+	"7238534fdcb72278f495c2af5d78de0083af51a4" -> "3eb3ccdf09759e63532a10105584e8b9d686213e"
+	a4dc9e6821c767fd690b7a6d1a7a770cbed491fd [label=a4dc9e6 fillcolor="#85d5fa"]
+	a4dc9e6821c767fd690b7a6d1a7a770cbed491fd -> "3eb3ccdf09759e63532a10105584e8b9d686213e"
+	cb5ddeac9a3ebf040d9987bf1a806e9089acfd07 [label=cb5ddea fillcolor="#85d5fa"]
+	cb5ddeac9a3ebf040d9987bf1a806e9089acfd07 -> "3eb3ccdf09759e63532a10105584e8b9d686213e"
+	12140860 [label=1214086 fillcolor="#9999ff"]
+	12140860 -> "146f750d68928aabe147638d31ce0966695f2313"
+	master [label=master fillcolor="#9999ff"]
+	master -> "3eb3ccdf09759e63532a10105584e8b9d686213e"
+	HEAD [label=HEAD fillcolor="#e6ccff"]
+	HEAD -> 12140860
+	"origin/12140110" [label=1214011 fillcolor="#ffa366"]
+	"origin/12140110" -> "3e50ca9deec3ab6270333c4714009fa2778e443a"
+	"origin/12140540" [label=1214054 fillcolor="#ffa366"]
+	"origin/12140540" -> "021a20b7bf505af161fbe5f6eaebaf6cf9c4c394"
+	"origin/12140860" [label=1214086 fillcolor="#ffa366"]
+	"origin/12140860" -> "146f750d68928aabe147638d31ce0966695f2313"
+	"origin/master" [label=master fillcolor="#ffa366"]
+	"origin/master" -> "3eb3ccdf09759e63532a10105584e8b9d686213e"
+	origin [label=origin fillcolor="#ff6666"]
+	origin -> "origin/12140110"
+	origin -> "origin/12140540"
+	origin -> "origin/12140860"
+	origin -> "origin/master"
+}

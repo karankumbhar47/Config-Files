@@ -1,0 +1,48 @@
+#!/bin/bash
+
+#####################################################################################################
+#                                                                                                   #
+#                    Script to make 50 commits and  make list of all commits                        #
+#                                                                                                   #
+#####################################################################################################
+
+#initializing git
+git init
+
+#########################################################################
+#       crateing new file and making 50 commits                         #
+#########################################################################
+
+for commit_count in {1..50};
+
+do
+
+  fileName=$commit_count.txt
+  echo "This is file number :- $commit_count" > $fileName 
+  git add $fileName
+  git commit -m"This is commit number $commit_count"
+
+done
+
+clear 
+
+##########################################################################
+#            Extracting list commits from git log using awk              # 
+##########################################################################
+
+echo -e "\n======================================================================\n"
+echo "Printing list of commits . . . \n"
+git log --reverse | awk '{
+if ($1 == "commit"){
+  prev = $2;
+}
+else if ($3 == "commit"){
+  gsub(/^[[:space:]]+/, "", $0);
+  print $0  " ==> [" prev "]\n************************     ******************************************\n"
+} 
+}'
+
+echo -e "\n======================================================================\n"
+
+
+

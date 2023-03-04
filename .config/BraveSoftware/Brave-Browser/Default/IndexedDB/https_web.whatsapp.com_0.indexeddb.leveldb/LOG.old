@@ -1,0 +1,36 @@
+2023/02/24-02:29:44.049 50c Reusing MANIFEST /home/karan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/24-02:29:44.051 50c Recovering log #4068
+2023/02/24-02:29:45.076 50c Reusing old log /home/karan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/004068.log 
+2023/02/24-02:30:30.665 4ff Level-0 table #4093: started
+2023/02/24-02:30:30.931 4ff Level-0 table #4093: 1092200 bytes OK
+2023/02/24-02:30:31.176 4ff Delete type=0 #4068
+2023/02/24-02:30:31.367 500 Compacting 1@0 + 0@1 files
+2023/02/24-02:30:31.474 500 Generated table #4094@0: 18280 keys, 447122 bytes
+2023/02/24-02:30:31.572 500 Generated table #4095@0: 517 keys, 10373 bytes
+2023/02/24-02:30:31.572 500 Compacted 1@0 + 0@1 files => 457495 bytes
+2023/02/24-02:30:31.742 500 compacted to: files[ 0 2 20 0 0 0 0 ]
+2023/02/24-02:30:31.742 500 Delete type=2 #4093
+2023/02/24-02:30:52.243 50b Compacting 1@1 + 10@2 files
+2023/02/24-02:30:53.287 50b Generated table #4096@1: 63427 keys, 2332314 bytes
+2023/02/24-02:30:53.795 50b Generated table #4097@1: 24246 keys, 2188040 bytes
+2023/02/24-02:30:54.229 50b Generated table #4098@1: 2652 keys, 2160788 bytes
+2023/02/24-02:30:54.732 50b Generated table #4099@1: 2730 keys, 2164976 bytes
+2023/02/24-02:30:55.571 50b Generated table #4100@1: 3197 keys, 2173239 bytes
+2023/02/24-02:30:56.364 50b Generated table #4101@1: 1836 keys, 2141894 bytes
+2023/02/24-02:30:57.164 50b Generated table #4102@1: 9547 keys, 2163379 bytes
+2023/02/24-02:30:58.110 50b Generated table #4103@1: 26475 keys, 2269413 bytes
+2023/02/24-02:30:59.150 50b Generated table #4104@1: 24134 keys, 2272343 bytes
+2023/02/24-02:31:00.175 50b Generated table #4105@1: 25714 keys, 2244014 bytes
+2023/02/24-02:31:00.175 50b Compacted 1@1 + 10@2 files => 22110400 bytes
+2023/02/24-02:31:00.292 50b compacted to: files[ 0 1 20 0 0 0 0 ]
+2023/02/24-02:31:00.293 50b Delete type=2 #4075
+2023/02/24-02:31:00.293 50b Delete type=2 #4094
+2023/02/24-02:31:00.293 50b Delete type=2 #4078
+2023/02/24-02:31:00.293 50b Delete type=2 #4073
+2023/02/24-02:31:00.293 50b Delete type=2 #4077
+2023/02/24-02:31:00.293 50b Delete type=2 #4081
+2023/02/24-02:31:00.293 50b Delete type=2 #4076
+2023/02/24-02:31:00.293 50b Delete type=2 #4074
+2023/02/24-02:31:00.293 50b Delete type=2 #4080
+2023/02/24-02:31:00.293 50b Delete type=2 #4079
+2023/02/24-02:31:00.293 50b Delete type=2 #4072

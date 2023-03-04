@@ -1,0 +1,39 @@
+2023-02-24 02:17:08.215 [info] Extension host with pid 40905 started
+2023-02-24 02:17:08.380 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-02-24 02:17:08.437 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onLanguage:code-runner-output'
+2023-02-24 02:17:08.980 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-02-24 02:17:09.142 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-02-24 02:17:09.146 [info] ExtensionService#_doActivateExtension Akashsharma01.code-tester, startup: true, activationEvent: '*'
+2023-02-24 02:17:09.250 [info] ExtensionService#_doActivateExtension DivyanshuAgrawal.competitive-programming-helper, startup: true, activationEvent: '*'
+2023-02-24 02:17:09.303 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+2023-02-24 02:17:09.397 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2023-02-24 02:17:09.405 [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock, startup: true, activationEvent: '*'
+2023-02-24 02:17:09.497 [info] ExtensionService#_doActivateExtension km.competitive-coding-helper, startup: true, activationEvent: '*'
+2023-02-24 02:17:09.552 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2023-02-24 02:17:09.754 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2023-02-24 02:17:09.783 [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+2023-02-24 02:17:09.932 [error] Activating extension km.competitive-coding-helper failed due to an error:
+2023-02-24 02:17:09.932 [error] Error: command 'cph.runTestCases' already exists
+    at s.registerCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:106489)
+    at Object.registerCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:29961)
+    at /home/karan/.vscode/extensions/km.competitive-coding-helper-6.0.3/dist/extension.js:1:4838
+    at t.activate (/home/karan/.vscode/extensions/km.competitive-coding-helper-6.0.3/dist/extension.js:1:5430)
+    at Function.db (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:14818)
+    at Function.cb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:14519)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:12519
+    at f.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6818)
+    at f.m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6781)
+    at f.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:94:6238)
+2023-02-24 02:17:09.954 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-02-24 02:17:10.072 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-02-24 02:17:10.121 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-02-24 02:17:10.220 [info] Eager extensions activated
+2023-02-24 02:17:10.228 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-02-24 02:17:10.276 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-02-24 02:17:10.349 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2023-02-24 02:17:11.719 [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-02-24 02:17:11.756 [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+2023-02-24 02:17:12.021 [info] ExtensionService#_doActivateExtension ms-edgedevtools.vscode-edge-devtools, startup: false, activationEvent: 'onStartupFinished'
+2023-02-24 02:17:12.204 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-02-24 02:17:12.297 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-02-24 02:17:12.566 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'

@@ -1,0 +1,15 @@
+2023/02/18-15:07:29.998 4a2 Reusing MANIFEST /home/karan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.codechef.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/18-15:07:29.998 4a2 Recovering log #7
+2023/02/18-15:07:30.147 4a2 Reusing old log /home/karan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.codechef.com_0.indexeddb.leveldb/000007.log 
+2023/02/18-15:07:38.075 4a2 Level-0 table #12: started
+2023/02/18-15:07:38.135 4a2 Level-0 table #12: 10708 bytes OK
+2023/02/18-15:07:38.231 4a2 Delete type=0 #7
+2023/02/18-15:07:38.232 4a2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/02/18-15:07:38.232 4a2 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x00' @ 533 : 1
+2023/02/18-15:07:38.232 4a2 Compacting 1@1 + 1@2 files
+2023/02/18-15:07:38.280 4a2 Generated table #13@1: 21 keys, 598 bytes
+2023/02/18-15:07:38.280 4a2 Compacted 1@1 + 1@2 files => 598 bytes
+2023/02/18-15:07:38.354 4a2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/02/18-15:07:38.354 4a2 Delete type=2 #12
+2023/02/18-15:07:38.354 4a2 Delete type=2 #9
+2023/02/18-15:07:38.355 4a2 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x00' @ 533 : 1 .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2023/02/09-00:42:51.260 2925 Creating DB /home/karan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forum.archlabslinux.com_0.indexeddb.leveldb since it was missing.
+2023/02/09-00:42:51.417 2925 Reusing MANIFEST /home/karan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forum.archlabslinux.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/09-00:43:28.469 2c2e Level-0 table #5: started
+2023/02/09-00:43:28.561 2c2e Level-0 table #5: 83161 bytes OK
+2023/02/09-00:43:28.635 2c2e Delete type=0 #3
+2023/02/09-00:43:28.636 2c2e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

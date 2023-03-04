@@ -1,0 +1,86 @@
+2023-02-24 01:14:08.573 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'commentsResolvedState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-02-24 01:14:24.042 [warning] [km.competitive-coding-helper]: Cannot register 'cph.general.saveLocation'. This property is already registered.
+2023-02-24 01:14:24.131 [warning] [km.competitive-coding-helper]: Cannot register 'cph.general.timeOut'. This property is already registered.
+2023-02-24 01:14:24.131 [warning] [km.competitive-coding-helper]: Cannot register 'cph.general.ignoreSTDERROR'. This property is already registered.
+2023-02-24 01:14:24.131 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.c.Args'. This property is already registered.
+2023-02-24 01:14:24.131 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.c.SubmissionCompiler'. This property is already registered.
+2023-02-24 01:14:24.132 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.c.Command'. This property is already registered.
+2023-02-24 01:14:24.132 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.cpp.Args'. This property is already registered.
+2023-02-24 01:14:24.132 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.cpp.SubmissionCompiler'. This property is already registered.
+2023-02-24 01:14:24.132 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.cpp.Command'. This property is already registered.
+2023-02-24 01:14:24.132 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.python.Args'. This property is already registered.
+2023-02-24 01:14:24.132 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.python.SubmissionCompiler'. This property is already registered.
+2023-02-24 01:14:24.132 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.python.Command'. This property is already registered.
+2023-02-24 01:14:24.133 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.rust.Args'. This property is already registered.
+2023-02-24 01:14:24.133 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.rust.SubmissionCompiler'. This property is already registered.
+2023-02-24 01:14:24.133 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.rust.Command'. This property is already registered.
+2023-02-24 01:14:24.133 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.java.Args'. This property is already registered.
+2023-02-24 01:14:24.133 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.java.SubmissionCompiler'. This property is already registered.
+2023-02-24 01:14:24.134 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.java.Command'. This property is already registered.
+2023-02-24 01:14:24.134 [warning] [km.competitive-coding-helper]: Cannot register 'cph.general.firstTime'. This property is already registered.
+2023-02-24 01:14:24.134 [warning] [km.competitive-coding-helper]: Cannot register 'cph.general.defaultLanguage'. This property is already registered.
+2023-02-24 01:14:24.134 [warning] [km.competitive-coding-helper]: Cannot register 'cph.general.menuChoices'. This property is already registered.
+2023-02-24 01:14:24.134 [warning] [km.competitive-coding-helper]: Cannot register 'cph.general.useShortCodeForcesName'. This property is already registered.
+2023-02-24 01:14:24.134 [warning] [km.competitive-coding-helper]: Cannot register 'cph.general.retainWebviewContext'. This property is already registered.
+2023-02-24 01:14:24.134 [warning] [km.competitive-coding-helper]: Cannot register 'cph.general.defaultLanguageTemplateFileLocation'. This property is already registered.
+2023-02-24 01:14:24.134 [warning] [km.competitive-coding-helper]: Cannot register 'cph.general.autoShowJudge'. This property is already registered.
+2023-02-24 01:14:24.135 [info] [km.competitive-coding-helper]: Command `cph.runTestCases` appears multiple times in the `commands` section.
+2023-02-24 01:14:24.135 [info] [km.competitive-coding-helper]: Command `cph.submitToCodeForces` appears multiple times in the `commands` section.
+2023-02-24 01:14:25.720 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: njk
+2023-02-24 01:14:25.721 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: django-html
+2023-02-24 01:14:25.735 [error] [km.competitive-coding-helper]: Cannot register multiple views with same id `cph.judgeView`
+2023-02-24 01:14:30.017 [info] [perf] Render performance baseline is 56ms
+2023-02-24 01:14:40.359 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-02-24 01:14:42.225 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-02-24 01:14:42.562 [error] [Extension Host] Failed to load message bundle for file /home/karan/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.1/out/extension
+2023-02-24 01:14:42.563 [error] [Extension Host] Failed to load message bundle for file /home/karan/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.1/out/extension
+2023-02-24 01:14:42.564 [error] [Extension Host] Failed to load message bundle for file /home/karan/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.1/out/extension
+2023-02-24 01:14:42.564 [error] [Extension Host] Failed to load message bundle for file /home/karan/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.1/out/extension
+2023-02-24 01:14:42.564 [error] [Extension Host] Failed to load message bundle for file /home/karan/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.1/out/extension
+2023-02-24 01:14:42.565 [error] [Extension Host] Failed to load message bundle for file /home/karan/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.1/out/extension
+2023-02-24 01:14:42.565 [error] [Extension Host] Failed to load message bundle for file /home/karan/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.1/out/extension
+2023-02-24 01:14:42.565 [error] [Extension Host] Failed to load message bundle for file /home/karan/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.1/out/extension
+2023-02-24 01:14:51.376 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'commentsResolvedState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-02-24 01:14:52.083 [warning] [km.competitive-coding-helper]: Cannot register 'cph.general.saveLocation'. This property is already registered.
+2023-02-24 01:14:52.083 [warning] [km.competitive-coding-helper]: Cannot register 'cph.general.timeOut'. This property is already registered.
+2023-02-24 01:14:52.083 [warning] [km.competitive-coding-helper]: Cannot register 'cph.general.ignoreSTDERROR'. This property is already registered.
+2023-02-24 01:14:52.083 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.c.Args'. This property is already registered.
+2023-02-24 01:14:52.083 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.c.SubmissionCompiler'. This property is already registered.
+2023-02-24 01:14:52.084 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.c.Command'. This property is already registered.
+2023-02-24 01:14:52.084 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.cpp.Args'. This property is already registered.
+2023-02-24 01:14:52.084 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.cpp.SubmissionCompiler'. This property is already registered.
+2023-02-24 01:14:52.084 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.cpp.Command'. This property is already registered.
+2023-02-24 01:14:52.084 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.python.Args'. This property is already registered.
+2023-02-24 01:14:52.084 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.python.SubmissionCompiler'. This property is already registered.
+2023-02-24 01:14:52.084 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.python.Command'. This property is already registered.
+2023-02-24 01:14:52.085 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.rust.Args'. This property is already registered.
+2023-02-24 01:14:52.085 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.rust.SubmissionCompiler'. This property is already registered.
+2023-02-24 01:14:52.085 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.rust.Command'. This property is already registered.
+2023-02-24 01:14:52.085 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.java.Args'. This property is already registered.
+2023-02-24 01:14:52.085 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.java.SubmissionCompiler'. This property is already registered.
+2023-02-24 01:14:52.085 [warning] [km.competitive-coding-helper]: Cannot register 'cph.language.java.Command'. This property is already registered.
+2023-02-24 01:14:52.085 [warning] [km.competitive-coding-helper]: Cannot register 'cph.general.firstTime'. This property is already registered.
+2023-02-24 01:14:52.085 [warning] [km.competitive-coding-helper]: Cannot register 'cph.general.defaultLanguage'. This property is already registered.
+2023-02-24 01:14:52.085 [warning] [km.competitive-coding-helper]: Cannot register 'cph.general.menuChoices'. This property is already registered.
+2023-02-24 01:14:52.085 [warning] [km.competitive-coding-helper]: Cannot register 'cph.general.useShortCodeForcesName'. This property is already registered.
+2023-02-24 01:14:52.085 [warning] [km.competitive-coding-helper]: Cannot register 'cph.general.retainWebviewContext'. This property is already registered.
+2023-02-24 01:14:52.085 [warning] [km.competitive-coding-helper]: Cannot register 'cph.general.defaultLanguageTemplateFileLocation'. This property is already registered.
+2023-02-24 01:14:52.085 [warning] [km.competitive-coding-helper]: Cannot register 'cph.general.autoShowJudge'. This property is already registered.
+2023-02-24 01:14:52.112 [info] [km.competitive-coding-helper]: Command `cph.runTestCases` appears multiple times in the `commands` section.
+2023-02-24 01:14:52.113 [info] [km.competitive-coding-helper]: Command `cph.submitToCodeForces` appears multiple times in the `commands` section.
+2023-02-24 01:14:52.144 [error] [km.competitive-coding-helper]: Cannot register multiple views with same id `cph.judgeView`
+2023-02-24 01:14:52.212 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: njk
+2023-02-24 01:14:52.212 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: django-html
+2023-02-24 01:14:56.954 [info] [perf] Render performance baseline is 37ms
+2023-02-24 01:14:59.167 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-02-24 01:14:59.240 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-02-24 01:14:59.669 [warning] UNRESPONSIVE extension host: 'zignd.html-css-class-completion' took 48.88390759855572% of 36.419ms, saved PROFILE here: 'file:///tmp/exthost-f73557.cpuprofile'
+2023-02-24 01:15:06.386 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-02-24 01:15:11.866 [error] [Extension Host] Failed to load message bundle for file /home/karan/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.1/out/extension
+2023-02-24 01:15:11.867 [error] [Extension Host] Failed to load message bundle for file /home/karan/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.1/out/extension
+2023-02-24 01:15:11.876 [error] [Extension Host] Failed to load message bundle for file /home/karan/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.1/out/extension
+2023-02-24 01:15:11.876 [error] [Extension Host] Failed to load message bundle for file /home/karan/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.1/out/extension
+2023-02-24 01:15:11.877 [error] [Extension Host] Failed to load message bundle for file /home/karan/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.1/out/extension
+2023-02-24 01:15:11.878 [error] [Extension Host] Failed to load message bundle for file /home/karan/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.1/out/extension
+2023-02-24 01:15:11.880 [error] [Extension Host] Failed to load message bundle for file /home/karan/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.1/out/extension
+2023-02-24 01:15:11.881 [error] [Extension Host] Failed to load message bundle for file /home/karan/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.1/out/extension

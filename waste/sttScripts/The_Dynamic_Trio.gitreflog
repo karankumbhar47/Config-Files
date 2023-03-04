@@ -1,0 +1,26 @@
+0ebb71c (HEAD -> main) HEAD@{0}: checkout: moving from The_dynamic_trio to main
+7c5c4ea (The_dynamic_trio) HEAD@{1}: commit (cherry-pick): resolve conflict(cherry-pick)
+e009502 (origin/The_dynamic_trio) HEAD@{2}: checkout: moving from main to The_dynamic_trio
+0ebb71c (HEAD -> main) HEAD@{3}: commit: merge conflict resolved
+396d89e HEAD@{4}: checkout: moving from 08c82abb4fb580f498ca17f6371d95ad824dec0e to main
+08c82ab (origin/g24) HEAD@{5}: checkout: moving from The_dynamic_trio to 08c8
+e009502 (origin/The_dynamic_trio) HEAD@{6}: checkout: moving from main to The_dynamic_trio
+396d89e HEAD@{7}: commit (cherry-pick): merge conflict resolved
+c49fe68 HEAD@{8}: pull origin main: Fast-forward
+2ae24b0 HEAD@{9}: reset: moving to HEAD
+2ae24b0 HEAD@{10}: pull origin main: Fast-forward
+8f27a5d HEAD@{11}: reset: moving to 8f27a5
+a5bc0e3 HEAD@{12}: rebase (finish): returning to refs/heads/main
+a5bc0e3 HEAD@{13}: commit: merge conflict resolved(rebase)
+8f27a5d HEAD@{14}: rebase (start): checkout origin/main
+62cce8f HEAD@{15}: commit (merge): merge conflict resolved
+244c47b HEAD@{16}: checkout: moving from The_dynamic_trio to main
+e009502 (origin/The_dynamic_trio) HEAD@{17}: checkout: moving from main to The_dynamic_trio
+244c47b HEAD@{18}: pull origin main: Fast-forward
+39629fd HEAD@{19}: checkout: moving from The_dynamic_trio to main
+e009502 (origin/The_dynamic_trio) HEAD@{20}: commit: adding modulus function and its button
+39629fd HEAD@{21}: checkout: moving from main to The_dynamic_trio
+39629fd HEAD@{22}: checkout: moving from modulus to main
+50de152 HEAD@{23}: commit: adding modulus function and its button
+39629fd HEAD@{24}: checkout: moving from main to modulus
+39629fd HEAD@{25}: clone: from github.com:suryasahiba/Calculator_23W.git

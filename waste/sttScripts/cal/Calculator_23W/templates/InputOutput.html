@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <style>
+        table {
+            border: 1px solid black;
+            margin-left: auto;
+            margin-right: auto;
+        }
+  
+        input[type="button"] {
+            width: 100%;
+            padding: 20px 40px;
+            background-color: green;
+            color: white;
+            font-size: 24px;
+            font-weight: bold;
+            border: none;
+            border-radius: 5px;
+        }
+  
+        input[type="text"] {
+            padding: 20px 30px;
+            font-size: 24px;
+            font-weight: bold;
+            border: none;
+            border-radius: 5px;
+            border: 2px solid black;
+        }
+        output[type="text"]{   
+            padding: 20px 30px;
+            font-size: 24px;
+            font-weight: bold;
+            border: none;
+            border-radius: 5px;
+            border: 2px solid black;
+        
+        }
+    </style>
+    
+    <title>Calculator</title>
+	<script src="static/utility.js"></script>
+  </head>
+  <body>
+	<h2>Calculator</h2>	
+	<form name="my_form" >
+	<table id="calcu">
+	 
+	<tr>
+	<td colspan="2"> <input type="text" name = "N1"></td>
+	<td colspan="2"> <input type="text" name = "N2"></td>  
+	</tr>
+	 
+        <tr>
+            <td><input type="button" class="btn btn-sm" onclick="submitData('add')" value="+"></td>
+            <td><input type="button" class="btn btn-sm" onclick="submitData('sub')" value="-"></td>
+            <td><input type="button" class="btn btn-sm" onclick="submitData('exp')" value="**"></td>
+            <td><input type="button" class="btn btn-sm" onclick="submitData('log')" value="log"></td>                       
+        </tr>
+        <tr>
+            <td><input type="button" class="btn btn-sm" onclick="submitData('is_different')" value="!="></td>            
+            <td><input type="button" class="btn btn-sm" onclick="submitData('logical_or')" value=" || "></td>
+            <td><input type="button" class="btn btn-sm" onclick="submitData('Find_MIN')" value=" min "></td>            
+            <td><input type="button" class="btn btn-sm" onclick="submitData('LOGICALAND')" value=" & "></td>
+            
+        </tr> 
+        <tr>   
+            <td><input type="button" class="btn btn-sm" onclick="submitData('div')" value="/"></td>         
+            <td><input type="button" class="btn btn-sm" onclick="submitData('multiplication')" value="X"></td>
+            <td><input type="button" class="btn btn-sm" onclick="submitData('Your Function')" value=" Symbol "></td>  
+            <td><input type="button" class="btn btn-sm" onclick="submitData('lsd')" value="<<"></td>            
+        </tr> 
+        <tr>
+            <td><input type="button" class="btn btn-sm" onclick="submitData('shiftdecimalright')" value=" -> "></td>            
+            <td><input type="button" class="btn btn-sm" onclick="submitData('Your Function')" value=" Symbol "></td>
+            <td><input type="button" class="btn btn-sm" onclick="submitData('nand')" value=" NAND"></td>            
+            <td><input type="button" class="btn btn-sm" onclick="submitData('Your Function')" value=" Symbol "></td>
+        </tr> 
+        <tr>
+            <td><input type="button" class="btn btn-sm" onclick="submitData('isEqual')" value=" == "></td>            
+            <td><input type="button" class="btn btn-sm" onclick="submitData('Your Function')" value=" Symbol "></td>
+            <td><input type="button" class="btn btn-sm" onclick="submitData('LCM')" value=" LCM "></td>            
+            <td><input type="button" class="btn btn-sm" onclick="submitData('gcd')" value=" HCF "></td>
+        </tr> 
+        
+         <tr>
+            <td><input type="button" class="btn btn-sm" onclick="submitData('nRoot')" value=" n√ "></td>        
+            <td><input type="button" class="btn btn-sm" onclick="submitData('maximum')" value=" MAX "></td>
+            <td><input type="button" class="btn btn-sm" onclick="submitData('antilog')" value="antilog"></td>
+        </tr> 
+        </table>
+        	
+	</form>			
+</body>
+</html>

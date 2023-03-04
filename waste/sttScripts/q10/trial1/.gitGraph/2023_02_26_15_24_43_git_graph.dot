@@ -1,0 +1,44 @@
+digraph auto {
+	graph [bgcolor=transparent]
+	node [fixedsize=true style=filled width=0.95]
+	"0500c950fe3e613cc80afd29a1e85a3614adc4c1" [label="0500c95" fillcolor="#9ccc66"]
+	"4cdc80df88441da98db254202ea63f4a39151c82" [label="4cdc80d" fillcolor="#9ccc66"]
+	a9548a509f1ce537834d951c46578a34dc1ef558 [label=a9548a5 fillcolor="#9ccc66"]
+	ad85fa35cff6be8d8cef11be62f784de7a467545 [label=ad85fa3 fillcolor="#9ccc66"]
+	"1a74112425d1d4a263d160e39bd568023386b7ef" [label="1a74112" fillcolor="#bc9b8f"]
+	"1a74112425d1d4a263d160e39bd568023386b7ef" -> "4cdc80df88441da98db254202ea63f4a39151c82"
+	"1a74112425d1d4a263d160e39bd568023386b7ef" -> a9548a509f1ce537834d951c46578a34dc1ef558
+	"5e2a63d50da7537848875bfd4c26551eb4e3db16" [label="5e2a63d" fillcolor="#bc9b8f"]
+	"5e2a63d50da7537848875bfd4c26551eb4e3db16" -> "0500c950fe3e613cc80afd29a1e85a3614adc4c1"
+	e07e7c0415b86918e08b4668c5017157c2b7c81b [label=e07e7c0 fillcolor="#bc9b8f"]
+	e07e7c0415b86918e08b4668c5017157c2b7c81b -> "0500c950fe3e613cc80afd29a1e85a3614adc4c1"
+	e07e7c0415b86918e08b4668c5017157c2b7c81b -> "4cdc80df88441da98db254202ea63f4a39151c82"
+	ff9f5c6297249b5a43320bb20a0c613d304cc205 [label=ff9f5c6 fillcolor="#bc9b8f"]
+	ff9f5c6297249b5a43320bb20a0c613d304cc205 -> "4cdc80df88441da98db254202ea63f4a39151c82"
+	ff9f5c6297249b5a43320bb20a0c613d304cc205 -> ad85fa35cff6be8d8cef11be62f784de7a467545
+	"396794e5199f9c21bbcf28f2f3359196f8f4d9e2" [label="396794e" fillcolor="#85d5fa"]
+	"396794e5199f9c21bbcf28f2f3359196f8f4d9e2" -> "5e2a63d50da7537848875bfd4c26551eb4e3db16"
+	"8d3e842f7a1918525269c8e9f4b82b744cb04077" [label="8d3e842" fillcolor="#85d5fa"]
+	"8d3e842f7a1918525269c8e9f4b82b744cb04077" -> ff9f5c6297249b5a43320bb20a0c613d304cc205
+	"8d3e842f7a1918525269c8e9f4b82b744cb04077" -> bac8f7868dd1d0587b9d8fc220d07c83f2c98db6
+	a46192d0dce47a4cbb650cce190c6d373d2eb72b [label=a46192d fillcolor="#85d5fa"]
+	a46192d0dce47a4cbb650cce190c6d373d2eb72b -> e07e7c0415b86918e08b4668c5017157c2b7c81b
+	a46192d0dce47a4cbb650cce190c6d373d2eb72b -> "396794e5199f9c21bbcf28f2f3359196f8f4d9e2"
+	bac8f7868dd1d0587b9d8fc220d07c83f2c98db6 [label=bac8f78 fillcolor="#85d5fa"]
+	bac8f7868dd1d0587b9d8fc220d07c83f2c98db6 -> "1a74112425d1d4a263d160e39bd568023386b7ef"
+	bac8f7868dd1d0587b9d8fc220d07c83f2c98db6 -> a46192d0dce47a4cbb650cce190c6d373d2eb72b
+	master [label=master fillcolor="#9999ff"]
+	master -> bac8f7868dd1d0587b9d8fc220d07c83f2c98db6
+	product [label=product fillcolor="#9999ff"]
+	product -> "8d3e842f7a1918525269c8e9f4b82b744cb04077"
+	HEAD [label=HEAD fillcolor="#e6ccff"]
+	HEAD -> "396794e5199f9c21bbcf28f2f3359196f8f4d9e2"
+	"origin/master" [label=master fillcolor="#ffa366"]
+	"origin/master" -> bac8f7868dd1d0587b9d8fc220d07c83f2c98db6
+	"origin/HEAD" [label=HEAD fillcolor="#ffbeb3"]
+	"origin/HEAD" -> "origin/master"
+	origin [label=origin fillcolor="#ff6666"]
+	origin -> "origin/master"
+	origin -> "origin/HEAD"
+	"origin/master" -> master
+}

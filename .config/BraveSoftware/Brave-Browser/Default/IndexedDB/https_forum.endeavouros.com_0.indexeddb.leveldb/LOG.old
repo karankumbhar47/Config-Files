@@ -1,0 +1,7 @@
+2023/02/23-14:26:13.818 1534 Reusing MANIFEST /home/karan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forum.endeavouros.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/23-14:26:13.818 1534 Recovering log #3
+2023/02/23-14:26:13.954 1534 Reusing old log /home/karan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forum.endeavouros.com_0.indexeddb.leveldb/000003.log 
+2023/02/23-14:26:54.810 1534 Level-0 table #5: started
+2023/02/23-14:26:54.882 1534 Level-0 table #5: 297325 bytes OK
+2023/02/23-14:26:54.956 1534 Delete type=0 #3
+2023/02/23-14:26:54.956 1534 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+# GIMP action-history
+
+(history-item "plug-in-reset-all" 0)
+(history-item "file-open" 1)
+(history-item "image-new" 0)
+(history-item "image-scale" 0)
+(history-item "file-save-as" 0)
+(history-item "filters-focus-blur" 0)
+(history-item "view-new" 0)
+(history-item "filters-lens-blur" 0)
+(history-item "filters-motion-blur-circular" 0)
+(history-item "filters-motion-blur-linear" 0)
+(history-item "filters-mean-curvature-blur" 1)
+
+# end of action-history

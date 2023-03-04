@@ -1,0 +1,26 @@
+#!/bin/bash
+#!/bin/bash
+
+#####################################################################################################
+#                                                                                                   #
+#####################################################################################################
+#initializing git
+git init
+
+#creating file and commitng
+for commit_count in {1..50};
+
+do
+
+  fileName=$commit_count.txt
+  echo "This is file number :- $commit_count" > $fileName 
+  git add $fileName
+  git commit -m"This is commit number $commit_count"
+
+done
+
+# Extracting list commits from git log using awk
+git log --reverse | awk '/commit/ {print $0}' | awk '{if(NR%2==1) prev=$2 ; else print "\n"  $1,$2,$3,$4,$5 " ==> [" prev "]\n************************     ******************************************\n"}'
+
+
+

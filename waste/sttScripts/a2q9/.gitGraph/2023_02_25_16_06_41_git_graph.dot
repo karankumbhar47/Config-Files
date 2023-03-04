@@ -1,0 +1,34 @@
+digraph auto {
+	graph [bgcolor=transparent]
+	node [fixedsize=true style=filled width=0.95]
+	"0a896ea4ac82374ef2e90e150a61ef5b29e850d2" [label="0a896ea" fillcolor="#85d5fa"]
+	"0a896ea4ac82374ef2e90e150a61ef5b29e850d2" -> "0f91971713c8ee5d92aef8f3f55e7e804fd63d89"
+	"0f91971713c8ee5d92aef8f3f55e7e804fd63d89" [label="0f91971" fillcolor="#85d5fa"]
+	"2d753a7558ff60e0bdc8f1f96a1067c13f8c1c83" [label="2d753a7" fillcolor="#85d5fa"]
+	"2d753a7558ff60e0bdc8f1f96a1067c13f8c1c83" -> daccd2d352673d443db03bdda1d3cf07930234d3
+	"342e68feaa225801ede7a8218226edc09bafd7e6" [label="342e68f" fillcolor="#85d5fa"]
+	"342e68feaa225801ede7a8218226edc09bafd7e6" -> daec5a0eb987ac1aac12d5b9c0a9ea909a0268c5
+	"7592a81f4b8d78b5ce4670efc1d8eac03e085a17" [label="7592a81" fillcolor="#85d5fa"]
+	"7592a81f4b8d78b5ce4670efc1d8eac03e085a17" -> "0a896ea4ac82374ef2e90e150a61ef5b29e850d2"
+	daccd2d352673d443db03bdda1d3cf07930234d3 [label=daccd2d fillcolor="#85d5fa"]
+	daccd2d352673d443db03bdda1d3cf07930234d3 -> "0f91971713c8ee5d92aef8f3f55e7e804fd63d89"
+	daec5a0eb987ac1aac12d5b9c0a9ea909a0268c5 [label=daec5a0 fillcolor="#85d5fa"]
+	daec5a0eb987ac1aac12d5b9c0a9ea909a0268c5 -> "0f91971713c8ee5d92aef8f3f55e7e804fd63d89"
+	master [label=master fillcolor="#9999ff"]
+	master -> "0f91971713c8ee5d92aef8f3f55e7e804fd63d89"
+	HEAD [label=HEAD fillcolor="#e6ccff"]
+	HEAD -> master
+	"origin/12140110" [label=1214011 fillcolor="#ffa366"]
+	"origin/12140110" -> "2d753a7558ff60e0bdc8f1f96a1067c13f8c1c83"
+	"origin/12140540" [label=1214054 fillcolor="#ffa366"]
+	"origin/12140540" -> "7592a81f4b8d78b5ce4670efc1d8eac03e085a17"
+	"origin/12140860" [label=1214086 fillcolor="#ffa366"]
+	"origin/12140860" -> "342e68feaa225801ede7a8218226edc09bafd7e6"
+	"origin/master" [label=master fillcolor="#ffa366"]
+	"origin/master" -> "0f91971713c8ee5d92aef8f3f55e7e804fd63d89"
+	origin [label=origin fillcolor="#ff6666"]
+	origin -> "origin/12140110"
+	origin -> "origin/12140540"
+	origin -> "origin/12140860"
+	origin -> "origin/master"
+}

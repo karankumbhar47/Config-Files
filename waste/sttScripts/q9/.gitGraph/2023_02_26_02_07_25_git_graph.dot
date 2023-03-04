@@ -1,0 +1,35 @@
+digraph auto {
+	graph [bgcolor=transparent]
+	node [fixedsize=true style=filled width=0.95]
+	"0071c038ee0adefaf227fa8a86d144f579922fe4" [label="0071c03" fillcolor="#9ccc66"]
+	"78201917ea4c7936828d74306e2c73181b18a92c" [label=7820191 fillcolor="#9ccc66"]
+	"89dc295bf64c101d5cf637529bde87c5ab624d2b" [label="89dc295" fillcolor="#9ccc66"]
+	"015f08719063c6fbcb5325ce8e52eb8c30caddd8" [label="015f087" fillcolor="#bc9b8f"]
+	"015f08719063c6fbcb5325ce8e52eb8c30caddd8" -> "0071c038ee0adefaf227fa8a86d144f579922fe4"
+	"015f08719063c6fbcb5325ce8e52eb8c30caddd8" -> "89dc295bf64c101d5cf637529bde87c5ab624d2b"
+	"4e290400e6942f28efd01d3dcda6e43c8d91c028" [label="4e29040" fillcolor="#bc9b8f"]
+	"4e290400e6942f28efd01d3dcda6e43c8d91c028" -> "78201917ea4c7936828d74306e2c73181b18a92c"
+	"59c5a5cd90366dd2a29756c38d791927f29520f6" [label="59c5a5c" fillcolor="#bc9b8f"]
+	"59c5a5cd90366dd2a29756c38d791927f29520f6" -> "0071c038ee0adefaf227fa8a86d144f579922fe4"
+	"45574b578ec5d6555bab2117c123e8709686dca1" [label="45574b5" fillcolor="#85d5fa"]
+	"45574b578ec5d6555bab2117c123e8709686dca1" -> "59c5a5cd90366dd2a29756c38d791927f29520f6"
+	"45574b578ec5d6555bab2117c123e8709686dca1" -> "97b7d4ac4d4d197d812cf265d4040096d171a8b0"
+	"5673b3ee2f2f2140a0ebacd5b46ec3f308953581" [label="5673b3e" fillcolor="#85d5fa"]
+	"5673b3ee2f2f2140a0ebacd5b46ec3f308953581" -> "015f08719063c6fbcb5325ce8e52eb8c30caddd8"
+	"5673b3ee2f2f2140a0ebacd5b46ec3f308953581" -> "45574b578ec5d6555bab2117c123e8709686dca1"
+	"97b7d4ac4d4d197d812cf265d4040096d171a8b0" [label="97b7d4a" fillcolor="#85d5fa"]
+	"97b7d4ac4d4d197d812cf265d4040096d171a8b0" -> "4e290400e6942f28efd01d3dcda6e43c8d91c028"
+	12140860 [label=1214086 fillcolor="#9999ff"]
+	12140860 -> "5673b3ee2f2f2140a0ebacd5b46ec3f308953581"
+	master [label=master fillcolor="#9999ff"]
+	master -> "97b7d4ac4d4d197d812cf265d4040096d171a8b0"
+	HEAD [label=HEAD fillcolor="#e6ccff"]
+	HEAD -> 12140860
+	"origin/12140860" [label=1214086 fillcolor="#ffa366"]
+	"origin/12140860" -> "5673b3ee2f2f2140a0ebacd5b46ec3f308953581"
+	"origin/master" [label=master fillcolor="#ffa366"]
+	"origin/master" -> "97b7d4ac4d4d197d812cf265d4040096d171a8b0"
+	origin [label=origin fillcolor="#ff6666"]
+	origin -> "origin/12140860"
+	origin -> "origin/master"
+}

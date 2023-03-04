@@ -1,0 +1,7 @@
+2023-02-24 01:14:15.883 [info] Starting worker process with pid 35002 (type: fileWatcher, window: 2).
+2023-02-24 01:14:17.036 [info] Starting worker process with pid 35011 (type: fileWatcher, window: 1).
+2023-02-24 01:14:20.419 [warning] No ptyHost heartbeat after 6 seconds
+2023-02-24 01:14:30.983 [info] Worker process with pid 35002 terminated normally (type: fileWatcher, window: 2).
+2023-02-24 01:14:37.858 [info] Deleted from disk svelte.svelte-vscode /home/karan/.vscode/extensions/svelte.svelte-vscode-107.0.2
+2023-02-24 01:14:47.524 [info] Worker process with pid 35011 terminated normally (type: fileWatcher, window: 1).
+2023-02-24 01:14:52.377 [info] Starting worker process with pid 35131 (type: fileWatcher, window: 1).

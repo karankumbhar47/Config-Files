@@ -1,0 +1,56 @@
+#!/bin/bash
+
+#####################################################################################################
+#                                                                                                   #
+#           Script to make 50 commits and print list of commits along with random commit            #                               
+#                                                                                                   #
+#####################################################################################################
+
+#initializing git
+git init
+
+#########################################################################
+#       crateing new file and making 50 commits                         #
+#########################################################################
+
+for commit_count in {1..50};
+
+do
+
+  fileName=$commit_count.txt
+  echo "This is file number :- $commit_count" > $fileName 
+  git add $fileName
+  git commit -m"This is commit number $commit_count"
+
+done
+
+##########################################################################
+#            Extracting list commits from git log using awk              # 
+##########################################################################
+
+num=$(($((RANDOM%50))+1))
+
+echo -e "\n======================================================================\n"
+echo -e "Printing list of commits . . . \n"
+
+git log | awk -v num="$num" '
+{ 
+if ( num == $5 ){
+  lines["message"] = $0;
+  lines["hash"] = prev
+}
+if ($1 == "commit"){
+  prev = $2;
+}
+else if ($3 == "commit"){
+  gsub(/^[[:space:]]+/, "", $0);
+  print $0  " ==> [" prev "]\n"
+} 
+}
+END{
+  echo -e
+  print "random commit ...\n " lines["message"] "==> " lines["hash"]
+}'
+
+
+

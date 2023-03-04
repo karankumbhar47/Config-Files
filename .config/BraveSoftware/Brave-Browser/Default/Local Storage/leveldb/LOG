@@ -1,0 +1,15 @@
+2023/02/24-10:59:56.288 3 Reusing MANIFEST /home/karan/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2023/02/24-10:59:56.291 3 Recovering log #876
+2023/02/24-10:59:56.374 3 Reusing old log /home/karan/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000876.log 
+2023/02/24-11:00:37.780 3 Level-0 table #882: started
+2023/02/24-11:00:38.045 3 Level-0 table #882: 18562 bytes OK
+2023/02/24-11:00:38.425 3 Delete type=0 #876
+2023/02/24-11:39:23.300 3 Level-0 table #884: started
+2023/02/24-11:39:23.359 3 Level-0 table #884: 18023 bytes OK
+2023/02/24-11:39:23.433 3 Delete type=0 #881
+2023/02/24-15:57:13.952 3 Level-0 table #886: started
+2023/02/24-15:57:14.022 3 Level-0 table #886: 19306 bytes OK
+2023/02/24-15:57:14.130 3 Delete type=0 #883
+2023/02/24-16:59:00.353 65 Level-0 table #888: started
+2023/02/24-16:59:00.415 65 Level-0 table #888: 20660 bytes OK
+2023/02/24-16:59:00.696 65 Delete type=0 #885

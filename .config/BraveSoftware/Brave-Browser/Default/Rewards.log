@@ -1,0 +1,2082 @@
+--------------------------------------------------------------------------------
+[Jan 25, 2023, 12:11:08.0 AM:ERROR:wallet_balance.cc(40)] Payment ID is empty
+[Jan 25, 2023, 12:11:10.6 AM:ERROR:refill_unblinded_tokens.cc(213)] Failed to get signed tokens
+[Jan 25, 2023, 12:32:54.7 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 25, 2023, 12:32:54.7 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 25, 2023, 12:35:25.8 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 25, 2023, 12:35:25.8 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 25, 2023, 12:54:33.5 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 25, 2023, 12:54:33.6 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 25, 2023, 12:54:33.6 AM:ERROR:publisher.cc(756)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jan 25, 2023, 1:43:46.4 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 25, 2023, 1:43:46.4 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 25, 2023, 1:50:29.1 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 25, 2023, 1:50:29.1 AM:ERROR:publisher.cc(756)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jan 25, 2023, 10:50:52.8 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 25, 2023, 10:50:52.8 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 25, 2023, 11:30:03.8 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 25, 2023, 11:30:03.8 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 25, 2023, 11:31:08.4 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 25, 2023, 11:31:08.4 AM:ERROR:publisher.cc(756)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jan 25, 2023, 4:06:04.3 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 25, 2023, 4:06:04.3 PM:ERROR:publisher.cc(756)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jan 25, 2023, 11:36:06.6 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 25, 2023, 11:36:06.6 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 25, 2023, 11:53:04.6 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 25, 2023, 11:55:29.1 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 25, 2023, 11:55:49.1 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 26, 2023, 12:12:57.8 AM:ERROR:publisher.cc(756)] Publisher info not found
+--------------------------------------------------------------------------------
+[Jan 26, 2023, 10:49:56.8 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 26, 2023, 10:58:11.5 AM:ERROR:publisher.cc(849)] Failed to retrieve publisher info while updating media duration
+[Jan 26, 2023, 10:58:12.0 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 26, 2023, 11:08:39.7 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 26, 2023, 11:08:39.7 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 26, 2023, 11:09:22.2 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 26, 2023, 11:09:22.2 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 26, 2023, 12:02:54.0 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 26, 2023, 12:02:54.0 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 26, 2023, 12:03:45.4 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Jan 26, 2023, 12:20:35.9 PM:ERROR:publisher.cc(756)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 08, 2023, 11:34:24.4 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 08, 2023, 11:44:30.5 AM:ERROR:logging_util.cc(102)] Network error (net::ERR_INTERNET_DISCONNECTED)
+[Feb 08, 2023, 11:44:30.5 AM:ERROR:get_available.cc(69)] Unexpected HTTP status: -1
+[Feb 08, 2023, 12:35:06.9 PM:ERROR:logging_util.cc(102)] Network error (net::ERR_INTERNET_DISCONNECTED)
+[Feb 08, 2023, 12:35:06.9 PM:ERROR:get_available.cc(69)] Unexpected HTTP status: -1
+[Feb 08, 2023, 3:59:21.1 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 08, 2023, 4:52:08.9 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 08, 2023, 5:09:38.8 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 08, 2023, 5:14:47.6 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 08, 2023, 5:20:06.3 PM:ERROR:publisher.cc(756)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 08, 2023, 5:59:25.6 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 08, 2023, 5:59:54.2 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 08, 2023, 6:01:08.5 PM:ERROR:publisher.cc(756)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 08, 2023, 6:52:50.2 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 08, 2023, 6:54:54.5 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 08, 2023, 6:56:03.8 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 08, 2023, 6:58:34.8 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 08, 2023, 6:59:16.6 PM:ERROR:publisher.cc(756)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 08, 2023, 9:52:14.9 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 08, 2023, 9:52:14.9 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 08, 2023, 10:31:40.4 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 08, 2023, 10:35:42.8 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 08, 2023, 10:40:34.5 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 08, 2023, 11:01:31.0 PM:ERROR:publisher.cc(756)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 09, 2023, 12:45:13.3 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 09, 2023, 12:45:13.3 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 09, 2023, 1:13:52.1 AM:ERROR:publisher.cc(849)] Failed to retrieve publisher info while updating media duration
+[Feb 09, 2023, 1:13:53.1 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 09, 2023, 1:13:53.1 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 09, 2023, 1:14:29.1 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 09, 2023, 1:14:29.1 AM:ERROR:publisher.cc(756)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 09, 2023, 1:20:17.0 AM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 09, 2023, 1:20:17.0 AM:ERROR:publisher.cc(756)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 09, 2023, 3:24:56.6 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 09, 2023, 3:25:17.7 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 09, 2023, 3:26:37.3 PM:ERROR:publisher.cc(756)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 09, 2023, 7:22:31.0 PM:ERROR:publisher.cc(756)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 09, 2023, 8:56:55.9 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 09, 2023, 9:31:50.1 PM:ERROR:refill_unblinded_tokens.cc(213)] Failed to get signed tokens
+[Feb 09, 2023, 9:34:06.6 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 09, 2023, 9:34:34.5 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 09, 2023, 9:36:59.9 PM:ERROR:publisher.cc(756)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 11, 2023, 1:11:31.0 AM:ERROR:publisher.cc(756)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 11, 2023, 12:21:01.5 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 11, 2023, 12:21:01.5 PM:ERROR:publisher.cc(756)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 11, 2023, 1:13:22.4 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 11, 2023, 1:13:22.4 PM:ERROR:publisher.cc(756)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 11, 2023, 3:29:23.9 PM:ERROR:logging_util.cc(102)] Network error (net::ERR_INTERNET_DISCONNECTED)
+[Feb 11, 2023, 3:29:23.9 PM:ERROR:get_parameters.cc(125)] Unexpected status code! (HTTP -1)
+[Feb 11, 2023, 3:29:26.5 PM:ERROR:issuers.cc(108)] Failed to fetch issuers
+[Feb 11, 2023, 3:29:53.8 PM:ERROR:logging_util.cc(102)] Network error (net::ERR_INTERNET_DISCONNECTED)
+[Feb 11, 2023, 3:29:53.8 PM:ERROR:get_available.cc(69)] Unexpected HTTP status: -1
+[Feb 11, 2023, 3:32:00.5 PM:ERROR:issuers.cc(108)] Failed to fetch issuers
+[Feb 11, 2023, 3:35:25.5 PM:ERROR:issuers.cc(108)] Failed to fetch issuers
+--------------------------------------------------------------------------------
+[Feb 12, 2023, 1:11:08.3 PM:ERROR:publisher.cc(756)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 12, 2023, 4:45:08.2 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 12, 2023, 4:54:56.5 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 12, 2023, 4:54:56.5 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 12, 2023, 4:55:08.3 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 12, 2023, 4:55:08.3 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 12, 2023, 6:29:37.4 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 12, 2023, 6:38:44.6 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 12, 2023, 6:38:44.6 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 12, 2023, 6:44:56.5 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 12, 2023, 6:44:56.5 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 12, 2023, 6:59:44.5 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 12, 2023, 6:59:44.5 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 12, 2023, 7:01:49.5 PM:ERROR:publisher.cc(756)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 13, 2023, 2:17:53.9 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 13, 2023, 2:17:53.9 PM:ERROR:publisher.cc(756)] Publisher info not found
+[Feb 13, 2023, 3:20:01.4 PM:ERROR:publisher.cc(756)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 13, 2023, 3:36:33.4 PM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 13, 2023, 5:07:00.2 PM:ERROR:issuers.cc(108)] Failed to fetch issuers
+--------------------------------------------------------------------------------
+[Feb 13, 2023, 11:15:45.3 PM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 13, 2023, 11:15:45.3 PM:ERROR:publisher.cc(748)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 14, 2023, 1:53:21.2 AM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 14, 2023, 1:53:21.2 AM:ERROR:publisher.cc(748)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 14, 2023, 12:20:32.9 PM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 14, 2023, 12:20:32.9 PM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 14, 2023, 12:24:56.7 PM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 14, 2023, 12:51:08.5 PM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 14, 2023, 12:56:25.2 PM:ERROR:logging_util.cc(102)] Network error (net::ERR_ADDRESS_UNREACHABLE)
+[Feb 14, 2023, 12:56:25.2 PM:ERROR:get_publisher.cc(168)] Unexpected HTTP status: -1
+[Feb 14, 2023, 12:56:25.2 PM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 14, 2023, 1:03:08.1 PM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 14, 2023, 1:20:11.2 PM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 14, 2023, 1:20:11.2 PM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 14, 2023, 3:19:55.4 PM:ERROR:logging_util.cc(102)] Network error (net::ERR_INTERNET_DISCONNECTED)
+[Feb 14, 2023, 3:19:55.4 PM:ERROR:get_available.cc(69)] Unexpected HTTP status: -1
+[Feb 14, 2023, 3:55:16.7 PM:ERROR:publisher.cc(748)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 15, 2023, 11:37:32.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:37:37.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:37:38.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:37:44.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:37:44.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:37:44.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:37:44.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:37:52.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:37:59.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:38:00.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:42:24.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:42:25.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:42:25.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:42:31.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:42:31.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:42:31.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:47:18.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:47:47.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:47:52.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:51:50.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:55:54.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:55:54.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:58:23.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:00:00.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:00:03.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:00:08.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:00:49.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:00:51.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:01:12.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:01:58.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:02:04.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:02:05.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:02:21.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:02:21.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:03:31.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:03:32.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:03:49.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:04:01.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:04:12.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:04:12.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:04:15.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:04:16.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:04:17.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:05:23.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:09:20.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:11:06.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:11:06.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:24:40.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:24:43.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:24:49.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:27:55.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:27:56.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:28:07.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:28:16.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:28:18.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:28:28.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:29:01.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:29:02.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:30:36.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:30:36.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:30:39.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:31:04.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:31:05.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:31:14.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:31:16.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:31:27.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:31:45.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:32:11.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:32:12.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:32:45.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:32:45.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:32:45.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:32:55.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:33:11.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:33:53.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:35:46.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:35:53.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:36:11.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:36:21.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:36:21.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:36:21.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:36:37.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:40:00.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:40:02.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:40:09.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:40:10.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:40:32.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:40:37.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:40:37.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:40:38.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:40:38.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:40:38.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:40:42.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:40:42.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:40:42.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:40:45.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:40:45.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:40:45.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:41:04.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:41:04.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:41:04.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:41:16.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:41:16.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:41:16.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:41:20.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:41:20.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:41:20.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:41:22.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:41:22.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:41:22.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:41:24.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:41:24.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:41:24.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:41:27.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:41:27.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:41:38.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:41:39.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:42:24.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:42:24.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:42:24.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:42:29.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:42:29.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:42:29.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:42:31.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:42:32.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:42:32.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:43:31.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:43:33.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:43:44.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:53:05.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:53:05.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:53:05.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:53:11.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:53:11.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:53:11.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:53:15.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:53:15.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:53:15.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:53:48.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:53:48.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:53:49.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:53:56.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:53:57.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:53:57.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:54:00.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:54:00.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:54:00.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:54:09.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:54:09.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:54:09.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:54:12.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:54:13.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:54:13.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:54:16.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:54:16.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:54:16.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:54:21.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:54:21.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:54:21.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:54:38.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:54:38.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:54:38.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:55:01.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:55:02.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:55:05.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:55:05.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:55:09.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:55:09.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:55:16.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:55:18.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:58:49.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:59:07.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:59:08.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:59:29.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:59:54.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 12:59:54.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:00:18.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:00:18.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:02:44.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:02:45.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:02:50.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:02:56.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:07:55.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:08:19.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:08:21.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:08:22.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:08:23.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:08:24.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:08:25.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:08:37.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:08:37.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:08:37.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:08:40.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:08:40.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:08:41.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:08:49.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:08:50.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:08:50.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:08:55.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:08:55.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:08:55.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:08:57.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:08:58.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:08:58.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:14:58.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:15:01.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:15:03.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:15:07.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:16:40.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:16:40.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:16:40.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:16:47.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:16:47.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:16:47.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:16:51.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:16:51.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:16:51.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:16:56.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:16:56.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:16:56.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:17:00.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:17:00.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:17:00.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:21:40.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:21:40.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:21:40.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:24:55.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:25:38.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:25:38.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:25:39.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:25:54.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:25:54.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:26:03.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:26:04.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:26:26.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 1:26:26.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:15:20.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:15:24.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:15:29.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:15:40.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:18:53.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:20:04.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:20:42.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:21:13.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:21:54.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:22:55.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:23:12.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:23:16.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:23:35.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:23:41.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:27:33.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:31:56.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:37:48.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:41:59.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:51:05.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:51:11.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:51:16.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:51:21.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:51:26.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:51:31.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:51:36.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:51:42.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:51:47.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:51:52.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:51:57.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:52:02.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 3:59:52.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 4:04:57.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 4:10:03.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 4:15:25.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 4:20:47.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 4:25:21.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 4:30:59.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 4:35:51.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 4:40:10.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 4:42:36.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 4:42:38.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 4:44:57.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 4:45:25.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 4:45:25.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 4:48:56.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+--------------------------------------------------------------------------------
+[Feb 15, 2023, 5:06:24.8 PM:ERROR:publisher.cc(748)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 15, 2023, 7:25:27.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:25:27.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:25:27.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:25:27.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:25:28.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:25:29.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:25:30.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:25:30.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:25:31.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:25:31.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:25:33.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:25:33.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:25:35.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:25:35.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:25:37.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:25:38.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:25:40.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:25:42.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:25:43.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:25:43.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:25:43.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:25:46.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:25:51.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:25:51.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:25:56.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:25:59.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:34:13.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:46:09.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:46:12.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:46:23.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:46:23.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:46:45.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:47:06.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:47:16.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:48:13.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:52:40.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:52:42.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:52:56.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:53:00.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:54:18.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:54:47.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:54:50.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 7:54:50.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:00:16.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:04:24.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:08:35.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:11:55.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:12:02.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:12:06.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:16:33.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:20:18.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:25:11.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:28:59.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:33:30.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:36:44.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:36:44.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:37:05.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:47:57.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:47:57.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:47:59.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:48:00.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:50:16.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:50:17.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:50:18.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:50:19.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:50:25.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:50:25.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:50:28.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:50:29.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:54:14.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:54:16.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:54:18.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:54:18.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:54:20.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:54:21.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:54:40.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:54:40.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:54:41.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:54:45.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:54:45.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:57:17.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:57:25.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 8:57:42.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 9:14:54.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 10:33:50.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 10:34:32.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 10:34:32.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 10:34:39.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 10:34:43.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 10:34:43.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 10:34:44.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 10:34:46.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 10:34:46.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 10:34:53.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 10:39:01.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:00:35.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:00:43.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:00:50.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:02:23.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:02:23.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:02:27.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:02:33.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:02:36.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:02:36.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:02:36.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:02:41.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:02:46.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:02:56.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:03:01.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:03:12.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:03:17.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:03:32.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:03:32.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:04:36.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:04:37.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:04:38.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:04:42.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:05:32.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:09:08.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:09:11.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:09:11.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:09:21.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:09:21.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:09:24.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:09:27.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:09:28.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:09:56.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:10:16.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:10:53.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:10:54.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:11:08.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:11:21.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:11:22.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:12:13.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:17:11.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:17:13.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 15, 2023, 11:17:21.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 12:14:18.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 12:14:23.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 12:14:26.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 12:14:26.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 12:14:27.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 12:14:30.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 12:15:21.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 12:15:21.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 12:34:25.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 12:34:28.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 12:34:30.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 12:36:28.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 12:40:09.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 12:40:11.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 12:40:18.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 12:40:19.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 12:40:42.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 12:40:45.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 12:42:04.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 12:43:12.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 12:43:12.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 12:43:47.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 12:46:30.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 12:46:31.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+--------------------------------------------------------------------------------
+[Feb 16, 2023, 12:53:12.5 AM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 16, 2023, 1:00:15.4 AM:ERROR:publisher.cc(748)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 16, 2023, 11:34:04.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:34:05.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:34:09.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:34:33.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:34:33.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:34:34.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:34:35.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:34:35.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:34:35.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:34:37.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:34:39.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:34:40.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:34:42.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:34:42.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:34:42.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:34:42.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:34:45.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:34:47.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:35:04.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:36:16.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:36:16.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:36:18.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:36:19.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:36:50.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:36:52.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:37:07.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:37:21.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:37:21.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:39:32.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:39:48.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:39:51.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:40:25.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:40:25.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:40:26.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+--------------------------------------------------------------------------------
+[Feb 16, 2023, 1:48:08.2 PM:ERROR:publisher.cc(748)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 16, 2023, 5:41:50.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 5:41:50.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 5:41:52.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 5:41:53.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 5:41:53.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 5:41:55.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 5:41:57.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 5:42:04.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 5:42:05.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 5:42:10.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 5:42:18.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 5:42:38.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 5:42:44.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 5:42:50.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 5:43:49.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 5:43:53.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 5:43:53.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 5:44:09.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 5:44:35.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 5:44:41.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 5:44:48.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 5:44:58.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 5:45:08.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 5:45:15.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 5:50:05.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 5:50:05.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 5:50:07.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 5:58:43.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 5:58:44.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+--------------------------------------------------------------------------------
+[Feb 16, 2023, 6:27:37.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 6:27:44.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 6:27:44.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 6:27:56.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 6:27:56.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 6:28:00.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 6:28:02.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 6:28:05.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 6:28:07.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 6:28:07.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 6:28:14.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 6:28:29.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+--------------------------------------------------------------------------------
+[Feb 16, 2023, 11:03:46.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:03:47.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:04:00.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:04:02.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:04:09.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:04:10.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:04:11.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:04:12.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:04:18.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:04:27.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:04:36.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:05:11.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:05:12.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:05:13.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:05:14.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:05:15.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:05:19.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:51:56.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:51:56.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:52:01.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:52:02.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:52:02.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:52:15.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:52:15.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:52:15.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:56:14.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:56:20.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:56:22.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:56:28.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:56:28.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:56:32.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:56:35.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:56:39.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:58:11.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 16, 2023, 11:58:11.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:03:47.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:04:23.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:04:50.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:05:59.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:05:59.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:06:00.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:06:54.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:06:54.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:09:03.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:09:03.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:09:03.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:09:08.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:09:09.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:09:09.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:09:15.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:09:15.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:09:15.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:17:42.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:17:42.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:18:09.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:18:09.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:18:27.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:18:27.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:19:03.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:19:10.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:19:10.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:21:58.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:21:58.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:21:58.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:22:54.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:22:54.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:25:20.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:25:20.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:25:24.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:25:24.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:25:24.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:25:24.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:25:37.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:25:37.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:25:43.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:25:44.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:26:17.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:26:17.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:26:21.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:26:21.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:26:21.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:28:48.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:36:20.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:36:25.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:36:25.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:36:32.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:39:17.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:39:46.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:39:54.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:41:31.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:41:31.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:41:32.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:49:34.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:49:34.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:49:35.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:49:35.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:49:51.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:49:56.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:50:03.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:50:04.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:50:05.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:50:05.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:50:23.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:50:23.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:50:23.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:51:06.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:51:06.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:51:07.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:51:16.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:51:16.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:51:17.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:51:17.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:51:59.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:52:00.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:52:00.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:52:32.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:52:32.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:52:32.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:53:14.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:53:15.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:53:21.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:53:21.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:53:25.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:55:06.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:55:06.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:55:06.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:58:54.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:58:56.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 1:01:34.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 1:41:50.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 1:41:51.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 1:41:51.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 1:42:01.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 1:42:02.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 1:42:02.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 1:48:46.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 1:48:46.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 1:48:48.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 1:48:49.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 1:52:26.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 1:52:26.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 1:52:31.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 1:52:31.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 1:52:31.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+--------------------------------------------------------------------------------
+[Feb 17, 2023, 10:54:38.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:54:38.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:54:45.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:54:48.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:54:49.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:54:49.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:54:50.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:54:52.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:54:53.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:54:56.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:54:58.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:54:58.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:55:00.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:55:00.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:55:03.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:55:03.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:55:04.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:55:05.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:55:06.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:55:06.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:55:15.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:55:16.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:56:09.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:56:14.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:56:29.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:56:33.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:57:31.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:57:34.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:57:34.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:57:41.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:57:45.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 11:16:08.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 11:16:08.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 11:16:09.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 11:16:09.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 11:16:16.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 11:16:16.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 11:16:16.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 11:16:43.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 11:16:43.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 11:16:43.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 11:16:48.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 11:16:48.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 11:16:48.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 11:53:44.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 11:53:44.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 11:53:51.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 11:53:51.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 11:53:51.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:19:41.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:19:41.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:19:41.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:19:44.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:19:44.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 12:19:44.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 1:02:53.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 1:02:54.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 1:02:57.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 1:02:58.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 1:17:22.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 1:17:27.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 1:17:43.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 1:17:44.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 1:18:31.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 1:18:34.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 2:01:30.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 2:01:32.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 2:01:40.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 2:01:40.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 2:01:45.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 2:01:45.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 2:02:15.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 2:02:19.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 2:02:24.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 2:02:26.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 2:40:44.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 2:40:52.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 3:12:28.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 3:12:28.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 3:12:29.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 3:12:30.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 3:12:30.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 3:12:40.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 3:12:40.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 3:12:41.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 3:12:41.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 3:12:47.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 3:12:47.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 3:12:47.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 3:16:05.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 3:16:08.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 3:24:06.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 3:24:11.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 3:43:35.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 3:48:36.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 3:48:36.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 3:48:39.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 3:49:24.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 3:49:26.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 3:50:03.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 3:50:03.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 3:50:10.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 3:51:01.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 4:05:34.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 4:05:34.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 4:06:42.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 4:06:43.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 4:06:43.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 4:06:46.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 4:16:20.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 4:16:21.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 4:16:25.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 4:16:46.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 4:17:28.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 4:17:28.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 4:17:31.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 4:17:41.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 4:17:58.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 4:25:33.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 4:25:33.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 4:25:35.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 4:25:36.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 5:01:32.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 5:01:32.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 5:02:23.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 5:02:27.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 5:02:47.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 5:46:00.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 5:46:00.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 5:46:00.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 5:46:06.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 5:46:06.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 5:46:06.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 5:50:22.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 5:50:25.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 5:50:27.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 5:50:43.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 5:50:47.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 5:53:28.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 5:53:36.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 5:53:42.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 5:56:04.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 5:56:06.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 5:56:10.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 6:07:02.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 6:11:18.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 6:11:18.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 6:11:18.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 6:11:21.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 6:11:21.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 6:11:21.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 6:11:24.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 6:11:24.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 6:15:23.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 6:15:24.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 6:15:42.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 6:15:42.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 6:15:42.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 6:15:44.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 6:15:44.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 6:15:44.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 6:21:43.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 6:29:49.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 6:29:50.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 6:29:55.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 6:29:55.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:02:17.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:02:18.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:02:32.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:15:21.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:15:22.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:15:23.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:15:23.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:15:23.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:17:38.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:17:38.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:17:38.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:17:42.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:17:42.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:17:42.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:20:27.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:40:39.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:40:46.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:40:51.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:44:01.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:44:01.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:44:03.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:44:04.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 10:46:28.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 11:39:31.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 11:39:33.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 11:39:50.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 11:57:07.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 11:57:08.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 17, 2023, 11:57:16.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:13:42.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:13:42.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:13:45.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:25:58.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:27:21.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:30:44.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:30:45.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:30:45.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:30:47.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:30:47.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:30:47.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:30:49.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:30:49.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:30:49.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:37:49.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:37:49.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:37:55.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:37:57.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:49:08.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:49:08.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:49:08.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:57:32.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:57:32.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:57:32.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:57:34.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:57:34.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:57:34.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:57:38.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:57:38.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:57:38.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:57:40.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:57:40.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:57:40.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:07:55.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:07:56.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:08:03.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:15:09.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:15:11.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:22:25.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:22:26.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:22:34.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:22:34.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:22:39.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:22:41.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:27:14.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:27:14.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:27:14.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:27:16.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:27:17.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:27:17.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:27:18.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:27:19.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:27:19.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:27:21.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:27:21.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:27:21.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:36:07.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:36:07.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:36:11.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:36:21.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 2:07:03.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 2:07:03.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 2:07:03.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 2:07:05.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 2:07:06.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 2:07:08.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 2:09:13.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 2:31:14.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 2:42:50.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 2:42:51.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 2:42:53.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 2:42:53.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 2:42:58.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+--------------------------------------------------------------------------------
+[Feb 18, 2023, 11:08:09.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:08:10.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:08:16.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:08:18.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:08:26.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:08:28.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:08:42.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:08:42.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:08:43.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:08:44.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:08:47.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:13:32.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:13:34.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:13:55.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:16:12.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:16:15.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:16:21.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:16:23.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:17:30.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:17:30.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:18:10.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:18:11.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:18:11.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:22:15.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:22:29.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:22:31.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:22:37.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:23:01.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:41:01.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:41:03.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:41:12.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:53:24.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 11:53:29.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:50:20.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:51:03.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:57:51.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:57:53.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:58:13.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 12:59:59.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:01:05.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:01:05.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:01:05.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:01:08.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:01:08.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:01:08.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:01:12.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:01:12.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:01:12.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:01:16.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:01:17.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:01:18.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:01:18.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:01:33.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:01:34.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:01:34.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+--------------------------------------------------------------------------------
+[Feb 18, 2023, 1:20:41.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:20:41.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:20:44.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:20:45.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:20:48.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:20:50.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:20:50.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:20:51.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:21:11.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:42:31.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:42:32.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:42:32.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:42:34.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:42:34.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 1:42:34.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 2:04:56.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 2:08:27.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 3:07:29.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 3:07:38.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 3:07:39.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 3:08:51.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 3:21:01.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 3:21:02.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 3:21:03.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 3:21:04.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 3:23:04.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 3:26:45.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 3:26:46.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 3:27:37.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 3:27:40.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 3:27:57.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 3:28:48.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 3:28:50.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 3:28:57.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 3:31:45.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 3:31:46.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 3:31:50.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 4:15:30.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 4:15:34.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 4:49:42.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 4:49:42.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 4:49:48.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 4:50:09.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 4:50:11.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 18, 2023, 4:50:11.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+--------------------------------------------------------------------------------
+[Feb 18, 2023, 9:08:20.2 PM:ERROR:publisher.cc(748)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 19, 2023, 12:06:15.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 12:06:18.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 12:06:23.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 12:06:23.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 12:06:23.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 12:06:23.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 12:06:24.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 12:06:25.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 12:06:29.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 12:06:29.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 12:06:30.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 12:06:32.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 12:06:32.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 12:06:36.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 12:06:40.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 12:06:40.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 12:06:42.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 12:06:42.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 12:10:08.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 12:14:15.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 12:14:31.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 12:14:46.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 12:15:30.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 12:16:05.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 12:57:43.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 1:01:09.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 1:01:14.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 1:12:19.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 1:28:40.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 1:28:42.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 1:28:45.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 1:29:58.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 2:05:35.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 2:05:36.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 2:05:50.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 3:15:25.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 3:23:44.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 3:23:44.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 3:23:45.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 3:23:49.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 3:23:50.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 3:30:41.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 3:30:42.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 3:30:47.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 3:30:47.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 3:30:51.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 3:39:25.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 3:39:25.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 3:39:31.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 3:39:35.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 3:41:27.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 4:06:57.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 4:07:01.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 4:07:06.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 4:07:06.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 4:07:09.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 4:10:28.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 4:10:28.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 4:10:29.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 4:10:32.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 4:10:32.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 4:10:32.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 4:10:40.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 4:10:40.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 4:10:41.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 4:18:03.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 4:18:04.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 4:18:07.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 4:18:07.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 4:18:08.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 4:18:52.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 4:46:20.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 5:27:43.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 5:27:43.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 5:27:45.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 5:27:45.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 5:39:37.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 5:39:38.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 5:39:40.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 5:39:50.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 5:44:54.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 5:44:55.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 5:45:01.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 6:26:25.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 6:26:25.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 6:26:25.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 6:36:32.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 6:36:34.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 6:37:25.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 6:45:25.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 6:45:25.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 6:45:25.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 6:45:27.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 6:45:27.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 6:45:28.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 7:30:26.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 7:30:27.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 7:30:27.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 7:32:07.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 7:32:08.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 7:32:14.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 7:32:16.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 7:32:16.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 7:34:13.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 7:34:15.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 7:42:14.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 7:42:17.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 7:48:55.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 8:16:31.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 8:16:32.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 8:16:33.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 8:16:34.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 9:09:09.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 9:09:12.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 9:09:54.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 9:59:06.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 9:59:06.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 9:59:06.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 9:59:09.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 9:59:09.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 9:59:09.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 9:59:19.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 9:59:19.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 9:59:19.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 9:59:21.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 9:59:23.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 9:59:23.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 10:07:30.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 10:07:30.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 10:07:30.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 10:07:46.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 10:07:46.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 10:07:47.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 10:07:54.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 10:07:54.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 10:07:54.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 10:10:19.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 10:10:39.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 10:10:55.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 10:22:14.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 10:22:20.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 10:22:20.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 10:22:20.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 10:22:22.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 10:22:23.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 10:22:25.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 10:56:13.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 19, 2023, 10:56:19.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+--------------------------------------------------------------------------------
+[Feb 19, 2023, 11:36:49.4 PM:ERROR:publisher.cc(748)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 20, 2023, 8:31:40.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 8:31:41.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 8:31:50.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 8:31:52.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 8:31:52.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 8:32:02.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 8:32:02.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 8:32:05.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 8:32:06.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 8:32:11.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 8:32:16.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 8:32:18.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 8:32:29.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 8:32:41.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 8:33:30.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 8:33:30.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 8:33:38.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 8:33:38.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 8:33:45.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 8:33:52.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 8:33:57.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 8:34:00.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 8:34:09.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 8:34:23.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 8:34:48.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 8:38:27.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 8:38:28.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 8:38:30.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 9:05:25.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 9:06:17.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 9:06:37.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 9:07:00.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 9:07:08.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 9:07:13.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 9:41:10.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 9:41:16.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 10:01:03.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:44:42.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:44:44.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:45:01.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:45:02.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:45:04.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:47:33.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:47:43.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:48:11.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:53:28.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:53:31.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 12:51:36.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 12:51:37.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 12:51:40.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+--------------------------------------------------------------------------------
+[Feb 20, 2023, 2:02:32.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:02:32.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:02:42.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:02:42.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:02:45.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:02:46.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:02:56.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:02:56.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:03:03.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:03:04.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:03:04.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:03:06.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:31:38.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:31:41.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:31:52.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:31:52.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:32:03.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:32:05.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:32:07.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:32:07.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:32:18.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:32:50.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:32:53.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:32:53.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:41:15.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:41:19.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:41:36.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:41:43.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:42:37.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:42:41.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:43:56.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:44:02.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:45:10.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:45:12.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:48:36.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:57:20.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:57:26.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:57:28.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 2:57:39.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+--------------------------------------------------------------------------------
+[Feb 20, 2023, 4:40:35.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 4:40:35.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 4:40:45.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 4:40:48.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 4:40:48.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 4:40:48.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 4:40:50.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 4:40:50.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 4:40:51.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 4:40:53.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 4:43:11.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 4:43:17.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 4:43:26.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 4:51:37.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 4:56:59.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 4:57:02.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:02:05.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:02:08.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:03:35.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:03:37.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:03:39.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:17:32.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:18:22.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:18:22.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:18:26.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:18:32.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:18:35.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:18:40.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:18:44.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:18:49.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:18:51.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:19:01.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:19:27.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:19:33.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:20:31.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:20:32.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:20:44.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:32:57.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:33:00.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:39:38.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:39:41.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:39:41.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:39:54.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:39:56.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:43:56.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:46:04.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:46:07.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:46:12.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:47:34.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:47:36.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:47:40.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:53:27.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:53:28.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:53:31.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:54:00.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:57:33.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:57:35.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:57:39.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:57:47.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:57:47.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:58:46.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:58:59.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:58:59.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 5:59:26.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+--------------------------------------------------------------------------------
+[Feb 20, 2023, 11:17:01.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:17:01.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:17:14.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:17:15.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:17:15.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:17:17.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:17:18.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:17:21.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:17:26.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:17:26.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:17:56.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:17:58.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:17:59.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:18:05.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:18:05.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:18:05.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:18:23.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:18:25.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:18:25.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:18:35.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:18:46.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:18:47.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:18:59.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:19:01.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:19:03.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:19:03.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:19:46.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:19:47.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:20:40.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:21:19.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:21:19.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:21:19.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:22:27.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:22:29.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:22:50.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:22:56.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:26:01.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:26:34.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:26:40.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:26:59.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:27:37.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:29:35.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:29:43.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:29:43.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:30:13.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:30:16.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:30:25.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:30:30.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:30:45.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:30:48.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:31:51.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:32:14.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:32:29.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:32:29.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 20, 2023, 11:32:33.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+--------------------------------------------------------------------------------
+[Feb 21, 2023, 12:05:21.0 AM:ERROR:logging_util.cc(102)] Network error (net::ERR_INTERNET_DISCONNECTED)
+[Feb 21, 2023, 12:05:21.0 AM:ERROR:get_parameters.cc(125)] Unexpected status code! (HTTP -1)
+[Feb 21, 2023, 12:05:21.8 AM:ERROR:logging_util.cc(102)] Network error (net::ERR_INTERNET_DISCONNECTED)
+[Feb 21, 2023, 12:05:21.8 AM:ERROR:get_available.cc(69)] Unexpected HTTP status: -1
+[Feb 21, 2023, 12:05:24.0 AM:ERROR:issuers.cc(108)] Failed to fetch issuers
+[Feb 21, 2023, 12:05:56.0 AM:ERROR:issuers.cc(108)] Failed to fetch issuers
+[Feb 21, 2023, 12:06:26.1 AM:ERROR:logging_util.cc(102)] Network error (net::ERR_INTERNET_DISCONNECTED)
+[Feb 21, 2023, 12:06:26.1 AM:ERROR:get_parameters.cc(125)] Unexpected status code! (HTTP -1)
+[Feb 21, 2023, 12:08:16.0 AM:ERROR:issuers.cc(108)] Failed to fetch issuers
+[Feb 21, 2023, 12:09:57.0 AM:ERROR:issuers.cc(108)] Failed to fetch issuers
+[Feb 21, 2023, 12:11:19.0 AM:ERROR:issuers.cc(108)] Failed to fetch issuers
+--------------------------------------------------------------------------------
+[Feb 21, 2023, 12:19:57.9 AM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 21, 2023, 12:20:08.4 AM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 21, 2023, 12:45:18.1 AM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 21, 2023, 12:45:18.1 AM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 21, 2023, 12:50:23.1 AM:ERROR:publisher.cc(748)] Publisher info not found
+--------------------------------------------------------------------------------
+[Feb 21, 2023, 11:57:00.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:57:01.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:57:04.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:57:05.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:57:05.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:57:09.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:57:09.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:57:09.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:57:09.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:57:19.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:57:23.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:57:23.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:57:34.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:15:26.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:15:59.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:16:06.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:18:38.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:18:39.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:18:40.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:18:46.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:19:35.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:19:35.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:19:37.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:19:39.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:19:40.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:19:43.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:25:22.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:25:54.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:34:38.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:34:41.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:34:43.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:34:47.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:34:47.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:37:09.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:37:58.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:38:00.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:38:05.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:38:05.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:38:33.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:38:33.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:39:13.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:39:13.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:39:45.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:39:45.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:40:02.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:44:07.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:44:24.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:44:29.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:44:35.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:44:56.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:44:57.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:45:40.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:45:42.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:45:44.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:45:45.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:45:59.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:46:59.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:47:01.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:47:09.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:47:11.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:47:13.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:47:17.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:47:19.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:47:20.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:47:22.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:47:23.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:47:24.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:47:28.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:47:29.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:47:32.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:47:35.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:47:48.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:47:54.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:47:55.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:47:58.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:47:58.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:47:59.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:48:10.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:51:42.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:51:44.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:51:45.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:51:46.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:51:47.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:51:48.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:51:49.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:51:50.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:51:52.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:51:53.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:51:54.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:51:55.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:51:56.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:51:57.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:51:58.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:00.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:01.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:02.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:03.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:04.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:05.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:06.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:06.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:07.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:08.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:08.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:09.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:10.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:11.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:13.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:14.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:14.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:15.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:17.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:18.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:19.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:22.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:22.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:24.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:24.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:25.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:26.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:30.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:30.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:31.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:47.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:48.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:50.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:51.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:54.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:52:54.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:53:11.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:53:13.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:53:25.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:53:27.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:53:38.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:53:48.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:53:49.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:54:23.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:54:23.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:54:30.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:54:33.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:54:41.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:55:39.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:55:41.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:55:46.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:55:46.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:55:52.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:57:46.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:57:48.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:58:57.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 12:59:34.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 1:13:19.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 1:14:03.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 1:14:12.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:04:07.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:05:02.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:11:54.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:18:33.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:24:58.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:32:03.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:35:37.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:35:52.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:36:34.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:36:44.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:37:29.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:37:46.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:38:04.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:38:05.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:38:10.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:38:10.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:38:11.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:38:11.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:38:17.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:39:20.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:51:22.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:51:35.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:51:48.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:51:48.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:52:15.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:52:15.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:52:42.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:52:42.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:53:00.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:53:00.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:53:51.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:53:51.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:56:48.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:56:49.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:57:31.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:57:31.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:58:25.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:58:25.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:58:37.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:58:37.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:58:39.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:58:40.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:58:59.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:58:59.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:59:00.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:59:01.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:59:02.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:59:02.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:59:58.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 2:59:58.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:00:25.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:00:25.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:00:26.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:00:26.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:00:29.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:00:29.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:00:31.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:00:31.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:00:32.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:00:33.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:00:33.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:00:34.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:00:36.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:00:36.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:00:38.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:00:38.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:00:39.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:00:39.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:01:19.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:01:20.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:01:24.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:01:25.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:02:16.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:02:17.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:02:32.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:02:33.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:02:34.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:02:34.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:02:47.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:02:47.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:02:49.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:02:49.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:02:51.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:02:51.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:02:52.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:02:52.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:03:08.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:03:09.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:03:32.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:03:32.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:03:35.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:03:35.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:03:37.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:03:37.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:03:40.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:03:40.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:04:04.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:04:05.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:04:36.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:04:36.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:04:58.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:04:59.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:05:18.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:05:19.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:05:33.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:05:33.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:05:35.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:05:36.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:06:15.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:06:15.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:06:41.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:06:41.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:07:44.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:07:46.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:07:49.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:07:52.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:07:53.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:07:58.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:07:58.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:08:11.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:08:12.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:08:36.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:08:36.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:08:53.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:08:54.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:09:20.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:09:20.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:09:33.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:09:33.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:09:40.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:09:41.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:09:52.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:09:52.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:10:55.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:10:55.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:11:18.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:11:18.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:12:03.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:12:03.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:12:20.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:12:20.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:12:24.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:12:24.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:12:32.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:12:32.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:12:33.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:12:33.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:12:34.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:12:35.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:12:37.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:12:37.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:12:53.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:12:53.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:12:55.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:12:55.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:13:43.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:13:43.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:14:39.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:14:39.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:15:13.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 3:15:14.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+--------------------------------------------------------------------------------
+[Feb 21, 2023, 11:09:34.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:09:34.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:09:43.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:09:44.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:09:46.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:09:47.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:09:49.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:09:50.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:09:54.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:09:55.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:09:56.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:09:56.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:10:02.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:10:02.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:10:25.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:10:29.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:11:07.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:11:15.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:15:02.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:15:07.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:15:57.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:16:08.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:16:15.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:16:15.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:16:15.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:16:16.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:16:19.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:16:38.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:16:39.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:17:29.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:17:33.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:17:36.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:27:15.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:27:27.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:30:48.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:34:17.9 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:34:18.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:34:21.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:35:34.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:35:36.4 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:35:36.5 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:43:01.3 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:45:59.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:49:30.6 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:52:30.2 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:52:34.1 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:53:00.7 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:53:01.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:53:01.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:53:08.0 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 21, 2023, 11:53:46.8 PM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:05:22.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:05:26.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:07:14.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:07:25.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:10:49.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:11:09.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:18:29.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:18:31.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:18:34.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:21:25.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:21:25.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:21:28.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:23:40.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:23:43.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:27:30.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:27:47.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:28:03.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:28:34.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:28:34.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:28:39.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:33:19.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:44:05.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:44:07.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:44:45.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:44:59.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:45:06.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:45:06.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:48:04.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:48:10.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:49:04.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:50:59.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:51:32.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:51:32.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:51:39.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:55:22.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:55:31.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:55:39.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:57:12.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:57:13.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:57:15.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:59:06.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:59:07.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 12:59:11.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 1:05:27.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 1:05:28.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 1:05:32.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 1:09:35.0 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 1:10:54.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 1:12:29.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 1:12:30.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 1:12:34.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 1:13:18.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 1:13:18.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 1:13:27.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 1:14:28.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 1:14:29.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 1:14:30.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 1:14:55.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 1:23:49.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 1:23:49.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 1:23:50.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 1:23:54.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 22, 2023, 1:23:55.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+--------------------------------------------------------------------------------
+[Feb 23, 2023, 11:25:21.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 23, 2023, 11:25:22.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 23, 2023, 11:25:22.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 23, 2023, 11:25:26.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 23, 2023, 11:25:29.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 23, 2023, 11:25:29.3 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 23, 2023, 11:25:29.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 23, 2023, 11:25:31.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 23, 2023, 11:25:31.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 23, 2023, 11:25:31.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 23, 2023, 11:25:32.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 23, 2023, 11:25:32.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 23, 2023, 11:25:33.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 23, 2023, 11:25:34.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 23, 2023, 11:25:39.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 23, 2023, 11:25:40.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 23, 2023, 11:25:43.9 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 23, 2023, 11:27:24.5 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 23, 2023, 11:27:38.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 23, 2023, 11:28:49.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 23, 2023, 11:29:00.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 23, 2023, 11:29:50.7 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 23, 2023, 11:43:47.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 23, 2023, 11:48:03.6 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 23, 2023, 11:49:19.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 23, 2023, 11:50:22.1 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 23, 2023, 11:51:07.4 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 23, 2023, 11:51:57.8 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+[Feb 23, 2023, 11:52:37.2 AM:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+--------------------------------------------------------------------------------
+[Feb 23, 2023, 11:59:31.9 AM:ERROR:logging_util.cc(102)] Network error (net::ERR_INTERNET_DISCONNECTED)
+[Feb 23, 2023, 11:59:31.9 AM:ERROR:get_prefix_list.cc(33)] Unexpected HTTP status: -1
+[Feb 23, 2023, 11:59:31.9 AM:ERROR:get_prefix_list.cc(57)] Invalid server response for publisher prefix list
+[Feb 23, 2023, 11:59:31.9 AM:ERROR:publisher_prefix_list_updater.cc(76)] Invalid server response for publisher prefix list
+[Feb 23, 2023, 11:59:31.9 AM:ERROR:logging_util.cc(102)] Network error (net::ERR_INTERNET_DISCONNECTED)
+[Feb 23, 2023, 11:59:31.9 AM:ERROR:get_parameters.cc(125)] Unexpected status code! (HTTP -1)
+[Feb 23, 2023, 11:59:31.9 AM:ERROR:logging_util.cc(102)] Network error (net::ERR_INTERNET_DISCONNECTED)
+[Feb 23, 2023, 11:59:31.9 AM:ERROR:get_available.cc(69)] Unexpected HTTP status: -1
+[Feb 23, 2023, 11:59:34.6 AM:ERROR:issuers.cc(108)] Failed to fetch issuers
+[Feb 23, 2023, 11:59:44.9 AM:ERROR:logging_util.cc(102)] Network error (net::ERR_INTERNET_DISCONNECTED)
+[Feb 23, 2023, 11:59:44.9 AM:ERROR:get_prefix_list.cc(33)] Unexpected HTTP status: -1
+[Feb 23, 2023, 11:59:44.9 AM:ERROR:get_prefix_list.cc(57)] Invalid server response for publisher prefix list
+[Feb 23, 2023, 11:59:44.9 AM:ERROR:publisher_prefix_list_updater.cc(76)] Invalid server response for publisher prefix list
+[Feb 23, 2023, 12:00:52.7 PM:ERROR:issuers.cc(108)] Failed to fetch issuers
+--------------------------------------------------------------------------------
+[Feb 23, 2023, 2:04:04.2 PM:ERROR:logging_util.cc(102)] Network error (net::ERR_INTERNET_DISCONNECTED)
+[Feb 23, 2023, 2:04:04.2 PM:ERROR:get_available.cc(69)] Unexpected HTTP status: -1
+--------------------------------------------------------------------------------
+[Feb 23, 2023, 2:39:24.3 PM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 23, 2023, 2:39:34.1 PM:ERROR:refill_unblinded_tokens.cc(213)] Failed to get signed tokens
+[Feb 23, 2023, 2:55:47.7 PM:ERROR:issuers.cc(108)] Failed to fetch issuers
+[Feb 23, 2023, 2:56:38.7 PM:ERROR:issuers.cc(108)] Failed to fetch issuers
+--------------------------------------------------------------------------------
+[Feb 24, 2023, 11:01:11.1 AM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 24, 2023, 11:01:11.1 AM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 24, 2023, 11:26:08.0 AM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 24, 2023, 11:26:53.4 AM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 24, 2023, 11:28:32.1 AM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 24, 2023, 11:28:51.3 AM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 24, 2023, 11:29:12.7 AM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 24, 2023, 11:29:34.9 AM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 24, 2023, 11:29:39.0 AM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 24, 2023, 11:29:40.3 AM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 24, 2023, 11:32:41.1 AM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 24, 2023, 11:34:10.2 AM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 24, 2023, 11:34:39.1 AM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 24, 2023, 11:35:04.5 AM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 24, 2023, 11:36:08.0 AM:ERROR:publisher.cc(748)] Publisher info not found
+[Feb 24, 2023, 12:54:48.5 PM:ERROR:publisher.cc(748)] Publisher info not found

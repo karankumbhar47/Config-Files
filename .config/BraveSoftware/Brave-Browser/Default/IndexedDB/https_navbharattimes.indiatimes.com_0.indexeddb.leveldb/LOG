@@ -1,0 +1,6 @@
+2023/02/14-01:20:18.197 3c1 Creating DB /home/karan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_navbharattimes.indiatimes.com_0.indexeddb.leveldb since it was missing.
+2023/02/14-01:20:18.478 3c1 Reusing MANIFEST /home/karan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_navbharattimes.indiatimes.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/14-01:24:00.464 3c1 Level-0 table #5: started
+2023/02/14-01:24:00.512 3c1 Level-0 table #5: 7535 bytes OK
+2023/02/14-01:24:00.586 3c1 Delete type=0 #3
+2023/02/14-01:24:00.586 3c1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

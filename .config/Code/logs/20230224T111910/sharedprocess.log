@@ -1,0 +1,12 @@
+2023-02-24 11:19:21.591 [info] Starting worker process with pid 3842 (type: fileWatcher, window: 1).
+2023-02-24 11:19:26.060 [warning] No ptyHost heartbeat after 6 seconds
+2023-02-24 12:17:54.799 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {"name":"Offline"}
+2023-02-24 12:22:54.845 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {"name":"Offline"}
+2023-02-24 13:42:43.385 [info] Starting worker process with pid 17553 (type: fileWatcher, window: 3).
+2023-02-24 13:43:02.590 [info] Worker process with pid 17553 terminated normally (type: fileWatcher, window: 3).
+2023-02-24 13:43:04.022 [info] Starting worker process with pid 17641 (type: fileWatcher, window: 3).
+2023-02-24 13:46:06.205 [info] Starting worker process with pid 18271 (type: fileWatcher, window: 4).
+2023-02-24 13:46:29.805 [info] Worker process with pid 18271 terminated normally (type: fileWatcher, window: 4).
+2023-02-24 13:46:30.637 [info] Starting worker process with pid 18321 (type: fileWatcher, window: 4).
+2023-02-24 16:10:25.603 [info] Worker process with pid 3842 terminated normally (type: fileWatcher, window: 1).
+2023-02-24 16:58:54.128 [info] Worker process with pid 17641 terminated normally (type: fileWatcher, window: 3).

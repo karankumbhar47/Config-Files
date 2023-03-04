@@ -1,0 +1,585 @@
+commit bd2475215d72275b623aefcc3f2c59736b907eae (HEAD -> CTRL+SHIFT+N)
+Author: tusharb <tusharbansal@iitbhilai.ac.in>
+Date:   Wed Mar 1 12:36:32 2023 +0530
+
+merge conflict resolved(cherry-pick)
+
+commit 15a3106ebcd48cd196b8ea5b6de1bc1d78324e7f (origin/CTRL+SHIFT+N)
+Author: DevaSuryaPrasad <devasurya@iitbhilai.ac.in>
+Date:   Thu Mar 2 01:03:36 2023 +0530
+
+updated multiplication
+
+commit 9e3a50a88824a631d8372ad54cee323549da3532
+Merge: d828bbb cccc4ee
+Author: githubber8745 <125214450+githubber8745@users.noreply.github.com>
+Date:   Wed Mar 1 18:47:14 2023 +0530
+
+Merge pull request #19 from suryasahiba/Data_Pirates
+
+added shiftdecimalright
+
+commit cccc4ee49dd640db2d59d9e7c1f8cbcaef83959d (origin/Data_Pirates)
+Author: R <katamramakanth@iitbhilai.ac.in>
+Date:   Wed Mar 1 18:45:41 2023 +0530
+
+added shiftdecimalright
+
+commit d828bbbd7741851e2ed20135c93aaa13896ec900
+Author: karankumbhar47 <karansunilk@iitbhilai.ac.in>
+Date:   Wed Mar 1 16:30:04 2023 +0530
+
+merge conflict resolved
+
+commit c3af513e8b554b934218e89c9c6de8d4aeab91f2
+Author: suryasahiba <46808361+suryasahiba@users.noreply.github.com>
+Date:   Wed Mar 1 11:58:44 2023 +0530
+
+merge conflict resolved
+
+commit 12d17885fd8b8071e74e03b2a36ff41df758c52c
+Merge: 5625d40 76afde9
+Author: hemanthA2704 <124875729+hemanthA2704@users.noreply.github.com>
+Date:   Wed Mar 1 16:07:45 2023 +0530
+
+Merge pull request #18 from suryasahiba/Renew1
+
+corrected logical or
+
+commit 76afde9535c2a7a0f5ae9674d1a25bbca6895913 (origin/Renew1)
+Author: hemanth <ankadalahemanth@gmail.com>
+Date:   Wed Mar 1 16:06:45 2023 +0530
+
+corrected logical or
+
+commit 5625d4011d01ac42a7dba3452da7e13e2a5db9d9
+Merge: a157adf 6638298
+Author: hemanthA2704 <124875729+hemanthA2704@users.noreply.github.com>
+Date:   Wed Mar 1 16:00:03 2023 +0530
+
+Merge pull request #17 from suryasahiba/Renew
+
+Added logical OR
+
+commit 6638298e78f989207ccdfa4965f8d3722dea45b9 (origin/Renew)
+Author: hemanth <ankadalahemanth@gmail.com>
+Date:   Wed Mar 1 15:58:58 2023 +0530
+
+Added logical OR
+
+commit a157adf41323120bbdbe7da282299534b69ff7e8
+Author: aishikanandi <aishikanandi@gmail.com>
+Date:   Wed Mar 1 15:55:29 2023 +0530
+
+g24 again
+
+commit 0b4b71b3b61966dfd823f87e260ed083590fc46e
+Author: aishikanandi <aishikanandi@gmail.com>
+Date:   Wed Mar 1 15:54:17 2023 +0530
+
+g24 again
+
+commit 4c9190c496fa1a9b6c76a25d84bc78dc62d87c8d
+Author: aishikanandi <aishikanandi@gmail.com>
+Date:   Wed Mar 1 15:30:13 2023 +0530
+
+LCM added successfully
+
+commit db92619f19ca72bc8ce62a8e95f51584cd8afeb1
+Merge: 9f723b8 0d31555
+Author: nikzzhere <elavarthanikhil@iitbhilai.ac.in>
+Date:   Wed Mar 1 13:46:51 2023 +0530
+
+final
+
+commit 9f723b886d107a165e9d3a662caf48f1ed1e045e
+Author: nikzzhere <elavarthanikhil@iitbhilai.ac.in>
+Date:   Wed Mar 1 13:45:24 2023 +0530
+
+done
+
+commit e6ba31aebcbac618799190bd659e2215622f794c
+Merge: 574ced3 3691d14
+Author: vinayak180203 <106701018+vinayak180203@users.noreply.github.com>
+Date:   Wed Mar 1 13:34:04 2023 +0530
+
+Merge pull request #15 from suryasahiba/Loosers
+
+Loosers added antilog
+
+commit 3691d146eab6b218d2686e7792e7d01903a8df1e
+Merge: 2e1c872 574ced3
+Author: vinayak180203 <106701018+vinayak180203@users.noreply.github.com>
+Date:   Wed Mar 1 13:33:54 2023 +0530
+
+Merge branch 'main' into Loosers
+
+commit 574ced3670657185a5398411c06f2d4f668b45c4
+Merge: 8675b9b b409065
+Author: c nikhil <chiruvolu@iitbhilai.ac.in>
+Date:   Wed Mar 1 13:29:53 2023 +0530
+
+l
+
+commit 2e1c87216aebe9baa9747b2a32b728e5ba4159c1
+Author: vinayak180203 <vinayakk@iitbhilai.ac.in>
+Date:   Wed Mar 1 13:29:14 2023 +0530
+
+Deleted a file
+
+commit 8675b9b1fb4057efaba5ae48a26227350801d299
+Merge: b742331 5aab314
+Author: aishikanandi <aishikanandi@gmail.com>
+Date:   Wed Mar 1 13:24:53 2023 +0530
+
+g24
+
+commit b4090654a802625a23fad8a6068a2b4841b8c1e1
+Author: c nikhil <chiruvolu@iitbhilai.ac.in>
+Date:   Wed Mar 1 13:23:51 2023 +0530
+
+error resolved1
+
+commit b74233106cea4143773520dab78f50ea6c2d1a77
+Merge: dbd2079 3c3da53
+Author: aishikanandi <aishikanandi@gmail.com>
+Date:   Wed Mar 1 13:22:40 2023 +0530
+
+group24
+
+commit 5aab314d8070f1a57948d85eb4d51b9c0462b6bf
+Merge: e139cf7 dbd2079
+Author: rohit <rohitas@iitbhilai.ac.in>
+Date:   Wed Mar 1 13:20:40 2023 +0530
+
+Resolved conflicts
+
+commit d4e80e94a672bfc74522c79ba8110437bb6fc3ce
+Merge: 0a3eeb0 dbd2079
+Author: c nikhil <chiruvolu@iitbhilai.ac.in>
+Date:   Wed Mar 1 13:19:10 2023 +0530
+
+resolved error
+
+commit e139cf76a92c5445a44b820abedcd73aec9c8504
+Merge: f105f93 c852070
+Author: rohit <rohitas@iitbhilai.ac.in>
+Date:   Wed Mar 1 13:16:16 2023 +0530
+
+issue resolved bitwisexor
+
+commit dbd2079dc3d55a60a98b38dca3a9f06f7b8f21da
+Author: ArnavPrakash <arnavprakash@iitbhilai.ac.in>
+Date:   Wed Mar 1 13:02:43 2023 +0530
+
+Added Bitwise NOR
+
+commit c85207000ec2da0c7ac3d7d01fad0bc3a0eaff81
+Author: rohit <rohitas@iitbhilai.ac.in>
+Date:   Wed Mar 1 13:14:01 2023 +0530
+
+Bitwise XOR
+
+commit 3c3da531797c717c453240b6d8c50a2f24cc27e1
+Author: aishikanandi <aishikanandi@gmail.com>
+Date:   Wed Mar 1 13:12:47 2023 +0530
+
+Added
+
+commit f105f93fffa6ea7244ba3e9d331aa83f28506763
+Merge: c49fe68 77b5eab
+Author: Seathexx <125234442+Seathexx@users.noreply.github.com>
+Date:   Wed Mar 1 13:07:30 2023 +0530
+
+Merge pull request #11 from suryasahiba/right_shift
+
+Added right shift function
+
+commit 77b5eab4e0e6b3d883a9546af931169414fc24dd (origin/right_shift)
+Merge: 3306930 c49fe68
+Author: Seathexx <125234442+Seathexx@users.noreply.github.com>
+Date:   Wed Mar 1 13:07:20 2023 +0530
+
+Merge branch 'main' into right_shift
+
+commit c49fe68054c3f8f5589a9b3b278aa765721dcc62
+Merge: ded7876 ebc0f6d
+Author: karankumbhar47 <111757554+karankumbhar47@users.noreply.github.com>
+Date:   Wed Mar 1 07:33:44 2023 +0000
+
+Merge pull request #9 from suryasahiba/The_dynamic_trio
+
+adding modulus function and its button
+
+commit ebc0f6d3ab036a7af66044c3240e2cdfd3694a07 (origin/The_dynamic_trio)
+Merge: e009502 ded7876
+Author: karankumbhar47 <111757554+karankumbhar47@users.noreply.github.com>
+Date:   Wed Mar 1 07:33:23 2023 +0000
+
+Merge branch 'main' into The_dynamic_trio
+
+commit fffb1aa15fa689cb44595ec06631b4249cf38ae9
+Author: aishikanandi <aishikanandi@gmail.com>
+Date:   Wed Mar 1 13:02:48 2023 +0530
+
+Function added
+
+commit ded7876d046e86a9b64b51d9bbad11ac91ed23ca (origin/error404)
+Merge: a9fecc3 e1161d0
+Author: kishore-LR5A <kishore.chodipilli@gmail.com>
+Date:   Wed Mar 1 13:00:18 2023 +0530
+
+Merge branch 'Rx100' into main
+
+commit 0a3eeb0efada050faf97053302c60a6f8f5cff22
+Author: Nikhil <chiruvolu@iitbhilai.ac.in>
+Date:   Wed Mar 1 12:57:44 2023 +0530
+
+ok
+
+commit a9fecc3cd245a8ce000f9f945fc3e7a4208625b8
+Merge: 2ae24b0 f522cf0
+Author: lasya684 <124791744+lasya684@users.noreply.github.com>
+Date:   Wed Mar 1 12:55:08 2023 +0530
+
+Merge pull request #6 from suryasahiba/Access_Denied
+
+added mini in py
+
+commit f522cf0cef8c5402e169641d69a478e12ab67159 (origin/Access_Denied)
+Merge: 847906e 2ae24b0
+Author: lasya684 <124791744+lasya684@users.noreply.github.com>
+Date:   Wed Mar 1 12:54:49 2023 +0530
+
+Merge branch 'main' into Access_Denied
+
+commit 7ea010dc22547d9ae0daf03ccf90b90d83665d31
+Author: vinayak180203 <106701018+vinayak180203@users.noreply.github.com>
+Date:   Wed Mar 1 12:51:47 2023 +0530
+
+Delete venv directory
+
+commit 847906edf3ce6c34896940530418c7a95b2e736d
+Author: lakshmilasya.kata@gmail.com <katalakshmil@iitbhilai.ac.in>
+Date:   Wed Mar 1 12:48:23 2023 +0530
+
+added min function
+
+commit 2ae24b072d9ac13bbfe9ec09183b9957df19221d
+Merge: ffeef89 24946ad
+Author: Mitul Vardhan <mitulvardhan@iitbhilai.ac.in>
+Date:   Wed Mar 1 12:46:35 2023 +0530
+
+Merge https://github.com/suryasahiba/Calculator_23W
+
+commit 0d315556bec4a0afb09890ea44722ec11895fa31 (origin/3ManSaga)
+Author: Srikar <mukkamalasrikar@gmail.com>
+Date:   Wed Mar 1 12:46:27 2023 +0530
+
+button
+
+commit ffeef89c62139ae2bf3da1d9647f1e6a037b2359
+Merge: 0edd51d 2c1e3db
+Author: Mitul Vardhan <mitulvardhan@iitbhilai.ac.in>
+Date:   Wed Mar 1 12:46:03 2023 +0530
+
+Merge branch 'HCF_New'
+
+commit 24946ada8761ee75baea698a2add941f01b16746
+Author: SUDEEP RANJAN SAHOO <sudeepranjan@iitbhilai.ac.in>
+Date:   Wed Mar 1 12:45:39 2023 +0530
+
+Delete venv directory
+
+commit dc37f6e564c096b642eca85c8239556db7046508
+Author: vinayak180203 <vinayakk@iitbhilai.ac.in>
+Date:   Wed Mar 1 12:45:33 2023 +0530
+
+Loosers created antilog
+
+commit 00d80a71df66145a7011f6f018859b1a26529310
+Author: aayushkatariaa <110016859+aayushkatariaa@users.noreply.github.com>
+Date:   Wed Mar 1 12:45:29 2023 +0530
+
+Update InputOutput.html
+
+commit 2c1e3db9aebffbb92f67ec575fbb2537b0223290
+Author: Mitul Vardhan <mitulvardhan@iitbhilai.ac.in>
+Date:   Wed Mar 1 12:44:40 2023 +0530
+
+First
+
+commit 0edd51d7775471806e719ab273422d5b72c139c1
+Merge: a4da5a6 0e9d198
+Author: Javed Habib <100477031+JaeAeich@users.noreply.github.com>
+Date:   Wed Mar 1 12:44:14 2023 +0530
+
+Merge pull request #8 from suryasahiba/we-are-kind-we-did-no-mistake
+
+fixed error and logical and
+
+commit 0e9d198e0df08e6937938375577a123077f82097 (origin/we-are-kind-we-did-no-mistake)
+Author: Jae Aeich <javedh@iitbhilai.ac.in>
+Date:   Wed Mar 1 12:43:10 2023 +0530
+
+fixed error and logical and
+
+commit a4da5a67a14427c0158b6039ffa27ce55b01de86 (origin/turing)
+Merge: f3a4461 5410395
+Author: irfan <irfan@me>
+Date:   Wed Mar 1 12:42:24 2023 +0530
+
+Merge branch 'main' into turing
+
+commit 5410395317a16647607a4be727db5e66072e4681
+Merge: 8f27a5d bda39ba
+Author: aayushkatariaa <110016859+aayushkatariaa@users.noreply.github.com>
+Date:   Wed Mar 1 12:41:35 2023 +0530
+
+Merge pull request #7 from suryasahiba/Repo_duction
+
+LSD commit 1
+
+commit bda39ba431d00dbfcb485f70288536d61738e7b8
+Merge: ef2c3da 8f27a5d
+Author: aayushkatariaa <110016859+aayushkatariaa@users.noreply.github.com>
+Date:   Wed Mar 1 12:41:25 2023 +0530
+
+Merge branch 'main' into Repo_duction
+
+commit f3a446161f002cb17f044c3f2b79e60aa188ba02
+Merge: d8f1722 8f27a5d
+Author: irfan <irfan@me>
+Date:   Wed Mar 1 12:41:06 2023 +0530
+
+Merge branch 'main' into turing
+
+commit d8f172217f3d81099f5fef87749e0bfc40443f98
+Merge: 04e82e5 af9c4dc
+Author: irfan <irfan@me>
+Date:   Wed Mar 1 12:39:52 2023 +0530
+
+merged main 2
+
+commit 330693003957da11bd9d11e6f408d4d878075dfe
+Author: Seathex <you@example.com>
+Date:   Wed Mar 1 12:39:36 2023 +0530
+
+Added right shift function
+
+commit 8f27a5da899d25ad7d1f69fd41f0406f53f0bc32
+Merge: 44e0fa3 ac0c5b4
+Author: tusharb <tusharbansal@iitbhilai.ac.in>
+Date:   Wed Mar 1 12:39:33 2023 +0530
+
+Merge branch 'main' of https://github.com/suryasahiba/Calculator_23W
+
+commit ac0c5b4c3167252746c980564d60428da4276bdc
+Merge: af9c4dc ae8e159
+Author: agaSiddhi <107345695+agaSiddhi@users.noreply.github.com>
+Date:   Wed Mar 1 12:39:12 2023 +0530
+
+Merge pull request #4 from suryasahiba/Git_Set_Go_findMax
+
+Find Max function added
+
+commit ae8e159e92a19384e32481b5a1779204d1c7e546
+Merge: 5e78730 af9c4dc
+Author: agaSiddhi <107345695+agaSiddhi@users.noreply.github.com>
+Date:   Wed Mar 1 12:38:52 2023 +0530
+
+Merge branch 'main' into Git_Set_Go_findMax
+
+commit ef2c3da46f0d7a65f2efc4607d10c9d73df7c1af
+Author: shreyanukala <nukalashreya514@gmail.com>
+Date:   Wed Mar 1 12:38:33 2023 +0530
+
+LSD commit 1
+
+commit 44e0fa36cf9e6c066504d83f98b69f6bfc96877b
+Merge: af9c4dc bcad078
+Author: tusharb <tusharbansal@iitbhilai.ac.in>
+Date:   Wed Mar 1 12:38:23 2023 +0530
+
+Merge branch 'vimi'
+
+commit bcad07835868bbe3736322e2a1e1124228011d0f (origin/vimi)
+Author: tusharb <tusharbansal@iitbhilai.ac.in>
+Date:   Wed Mar 1 12:36:32 2023 +0530
+
+added bitwise_nand feature
+
+commit 04e82e564c55135b93656eb1ec848ede8192513c
+Merge: 082c620 244c47b
+Author: irfan <irfan@me>
+Date:   Wed Mar 1 12:36:08 2023 +0530
+
+merged main
+
+commit af9c4dc95d7e266159bda336f5ee6b5a24b09490
+Merge: e6a82c1 120eec8
+Author: Mitul Vardhan <mitulvardhan@iitbhilai.ac.in>
+Date:   Wed Mar 1 12:35:29 2023 +0530
+
+Merge https://github.com/suryasahiba/Calculator_23W
+
+commit 082c620d9ad55e38ef1f60e565b910520d5483d1
+Author: irfan <irfan@me>
+Date:   Wed Mar 1 12:34:46 2023 +0530
+
+modified function message
+
+commit bd7644ce102bb1e7a4fd1334f143a5f1abc0ceb6
+Author: Srikar <mukkamalasrikar@gmail.com>
+Date:   Wed Mar 1 12:34:45 2023 +0530
+
+Division
+
+commit 120eec8df0a85d6d958f8a2adf54dac9c0b58369
+Merge: 244c47b 167b3be
+Author: solankybasant <basantsolanky@iitbhilai.ac.in>
+Date:   Wed Mar 1 12:34:07 2023 +0530
+
+left shift
+
+commit e6a82c15f96d930fcf7762f686587d35f8cb79ee
+Merge: beb03a4 244c47b
+Author: Mitul Vardhan <mitulvardhan@iitbhilai.ac.in>
+Date:   Wed Mar 1 12:33:30 2023 +0530
+
+Conflict resolved
+
+commit 708b8b0a0dc7d5ea9225ec40893b885122df0ef9
+Author: lakshmilasya.kata@gmail.com <katalakshmil@iitbhilai.ac.in>
+Date:   Wed Mar 1 12:32:21 2023 +0530
+
+added mini in py
+
+commit 167b3be398cd5b3efbd76ffdad033aae66ecf141
+Author: solankybasant <basantsolanky@iitbhilai.ac.in>
+Date:   Wed Mar 1 12:30:34 2023 +0530
+
+left shift
+
+commit beb03a493adced55e5a12c9df048d8eea3530741
+Author: Mitul Vardhan <mitulvardhan@iitbhilai.ac.in>
+Date:   Wed Mar 1 12:30:06 2023 +0530
+
+Completed
+
+commit e0095022ea648714e488aa605288572f2c7fc7bd
+Author: karankumbhar47 <karansunilk@iitbhilai.ac.in>
+Date:   Wed Mar 1 12:29:54 2023 +0530
+
+adding modulus function and its button
+
+commit e1161d0b2dac228bee7ccc87a35b7b2d81d154c0
+Author: kishore-LR5A <kishore.chodipilli@gmail.com>
+Date:   Wed Mar 1 12:29:42 2023 +0530
+
+function name capitalized
+
+commit 244c47b46fe1be051c93148b0969e3fe64c7491f
+Merge: b932e9e 8d64fe4
+Author: Sudeep Ranjan Sahoo <sudeepranjan@iitbhilai.ac.in>
+Date:   Wed Mar 1 12:28:12 2023 +0530
+
+Merge branch 'main' of github.com:suryasahiba/Calculator_23W
+
+commit b932e9ea9cc25bc7999813239baecfeb379026f9
+Author: Sudeep Ranjan Sahoo <sudeepranjan@iitbhilai.ac.in>
+Date:   Wed Mar 1 12:27:12 2023 +0530
+
+Three_TUX log2
+
+commit 94d92344252383263de919416ddfb23fb3b49205
+Author: kishore-LR5A <kishore.chodipilli@gmail.com>
+Date:   Wed Mar 1 12:26:47 2023 +0530
+
+bitwise_or functionality implemented
+
+commit 8d64fe464e1961385abb0ae9c1c6a17fa3ec224a
+Merge: d84cffc ec35467
+Author: Shubham <sbdaule5@gmail.com>
+Date:   Wed Mar 1 12:26:41 2023 +0530
+
+Merge branch 'SAD'
+
+commit d68c52f5884147831653fcb28c7cb47209b373c2
+Merge: b8b32e9 2891c49
+Author: Sudeep Ranjan Sahoo <sudeepranjan@iitbhilai.ac.in>
+Date:   Wed Mar 1 12:24:58 2023 +0530
+
+Three_TUX log
+
+commit d84cffc5b4f7ff61a0a8715a0fd2f3841184f3b4
+Merge: b8b32e9 fc7092e
+Author: lasya684 <124791744+lasya684@users.noreply.github.com>
+Date:   Wed Mar 1 12:23:52 2023 +0530
+
+Merge pull request #3 from suryasahiba/Access_Denied
+
+min
+
+commit 2891c49f0dda02e2c3e3ca09d5c1afe9bd79391f
+Author: Sudeep Ranjan Sahoo <sudeepranjan@iitbhilai.ac.in>
+Date:   Wed Mar 1 12:23:06 2023 +0530
+
+Three_TUX
+
+commit 5e78730544b6147f2c613f95816f06b5564ed369
+Author: Siddhi Agarwal <siddhiag@iitbhilai.ac.in>
+Date:   Wed Mar 1 12:23:00 2023 +0530
+
+Find Max function added
+
+commit 06e8d5b6f30dd4b3b2cfe39ae32492e08d65da8d
+Author: irfan <irfan@me>
+Date:   Wed Mar 1 12:22:41 2023 +0530
+
+added is difference function and button
+
+commit fc7092ecc7100aa268912a478c4f4ff68d7f5f27
+Author: lakshmilasya.kata@gmail.com <katalakshmil@iitbhilai.ac.in>
+Date:   Wed Mar 1 12:22:39 2023 +0530
+
+min
+
+commit ec3546731357939bcf90f36cdaf8ec9a9ece03cd (origin/SAD)
+Author: Shubham <sbdaule5@gmail.com>
+Date:   Wed Mar 1 12:22:27 2023 +0530
+
+Add a function to check equality
+
+commit b8b32e9283365df0f4dba69f403be04bf7575d58
+Merge: 39629fd 0998ef2
+Author: Javed Habib <100477031+JaeAeich@users.noreply.github.com>
+Date:   Wed Mar 1 12:16:49 2023 +0530
+
+Merge pull request #2 from suryasahiba/tkp
+
+Tkp
+
+commit 0998ef2100422f35bf4bd7e27cbd74573dc352c6 (origin/tkp)
+Author: Jae Aeich <javedh@iitbhilai.ac.in>
+Date:   Wed Mar 1 12:15:30 2023 +0530
+
+added logical and
+
+commit 39629fd4e4669952f94167948c20914a8bae861f
+Author: Arnav Gautam <gautam.arnavtokyo@gmail.com>
+Date:   Wed Mar 1 12:14:43 2023 +0530
+
+added exponent
+
+commit db133124720499e90530381ad81ca7600e446192 (origin/the-kind-pandas)
+Author: Jae Aeich <javedh@iitbhilai.ac.in>
+Date:   Wed Mar 1 12:06:26 2023 +0530
+
+added error handling
+
+commit f1f8c8839cb90a5471c26f5ecc283d574781d45c
+Author: suryasahiba <46808361+suryasahiba@users.noreply.github.com>
+Date:   Wed Mar 1 11:58:44 2023 +0530
+
+First Commit

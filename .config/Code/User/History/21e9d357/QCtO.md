@@ -1,0 +1,76 @@
+## difference between maint and HEAD :-
+
+'''
+**$ git diff maint**
+index e212970..8404f95 100644 
+diff --git a/file1 b/file1 
+--- a/file1 
++++ b/file1 
+@@ -1 +1,2 @@ 
+ file1 
++file1 modified 
+diff --git a/file2 b/file2 
+index e69de29..1bd55ff 100644 
+--- a/file2 
++++ b/file2 
+@@ -0,0 +1,2 @@ 
++file2 
++file2 modified 
+diff --git a/file3 b/file3 
+index e69de29..7c8ac2f 100644 
+--- a/file3 
++++ b/file3 
+@@ -0,0 +1 @@ 
++file3 
+'''
+
+## difference between second and fourth commit:-
+
+'''
+**$ git diff 5930 95d7**
+diff --git a/file1 b/file1
+index 8404f95..e212970 100644
+--- a/file1
++++ b/file1
+@@ -1,2 +1 @@
+ file1
+-file1 modified
+'''
+
+## difference between HEAD and last commit
+
+'''
+**$ git diff HEAD**
+diff --git a/file3 b/file3
+index 7c8ac2f..6a5160d 100644
+--- a/file3
++++ b/file3
+@@ -1 +1,2 @@
+ file3
++file3 modified
+'''
+
+## output of git diff
+'''
+**$ git diff**
+diff --git a/file3 b/file3
+index 6a5160d..09bb8c0 100644
+--- a/file3
++++ b/file3
+@@ -1,2 +1,3 @@
+ file3
+ file3 modified
++file3 modified second time
+'''
+
+## output of git diff --cached
+'''
+**$ git diff --cached**
+diff --git a/file3 b/file3
+index 7c8ac2f..6a5160d 100644
+--- a/file3
++++ b/file3
+@@ -1 +1,2 @@
+ file3
++file3 modified
+'''
